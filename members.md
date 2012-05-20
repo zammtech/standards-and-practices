@@ -1,11 +1,21 @@
-#Chief Mentors
+#Dictatus Benedictus Perpetuum
 
 - Joe Fredette (jfredett)
 
+#Chief Mentors
+
+- Jacob Gulotta (jgulotta)
+
 #Project Leaders
 
-N/A till we have some projects
+- Percival
+  - Joe Fredette (jfredett)
+- LPMC-site
+  - Joe Fredette (jfredett)
 
 #Mentors
+
+- Yash Ahuja (yash3ahuja)
+- Zach Barnes (Zacharias3690)
 
 #Associates
