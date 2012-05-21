@@ -89,8 +89,6 @@ up some more projects and mentors.
 I'll be adding more tickets to the existing projects as they come up. So -- get
 coding!
 
-================================================================================
-
 [1] Cue evil laugh
 
 [2] Percy is a project I "donated" to LPMC, so it has a bit of previous history.
