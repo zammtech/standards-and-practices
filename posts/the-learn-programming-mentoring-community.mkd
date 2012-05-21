@@ -1,0 +1,82 @@
+#The Learn Programming Mentoring Community (LPMC)
+
+## Why we Mentor
+
+Recently I posted about starting a group on github dedicated to providing free,
+libre, open source software projects for new FLOSS contributors to work on in an
+environment conducive to learning, rather than the more usual environment of
+comfortable (usually polite) hostility that is seen in so many major FLOSS
+projects.
+
+In particular, our goal is to take what usually results in a "Nope" and a
+rejected pull request and use it as a teaching opportunity, to better train
+individuals interested in OSS contribution on _how to contribute effectively_.
+
+To those experienced among us, we know that that means writing tests, being
+idiomatic, refactoring, and generally writing good code. To a neophyte
+contributor -- full of vim (or emacs) and vigor to contribute -- they may not
+know better, and submit a patch which -- while admirable in it's intent, is
+unfortunate in it's content.
+
+The idea of LPMC is similar, then, to that of the Apache Incubator -- except the
+focus is not on the projects, but the contributors. Where the Apache Incubator
+aims to take maintainence of open source projects which are being EOLed (like
+Wave), or released from holding by a company (like Thrift), or otherwise in need
+of a new home. LPMC aims to help nuture and grow effective FLOSS contributors,
+to the benefit of the whole community.
+
+## Why I'm posting
+
+To that end, I'm here to tell you all about some recent changes in the LPMC
+which should hopefully motivate us toward our aforementioned goals.
+
+First of all, I've decided that -- for the time being -- We're going to need a
+Benevolent Dictator. This is to facilitate rapidly forming all of the structure
+needed to build out the community of mentors, projects, websites, irc channels,
+mailing lists, and assorted other things needed in starting a community. To wit,
+I'm in charge[1] as the "Dictatus Benedictus Perpetuum" (because if you can't
+say it in dog latin, is it really worth saying?)
+
+Secondly, and in reference to the above, there are many of you (in fact, very
+many of you) who posted in response to my previous post with your interest in
+being a mentor, I haven't been able to message many of you, simply for lack of
+time amidst my other responsibilities. However, I will be going through the list
+and rounding out the mentoring team soon.
+
+Thirdly, we have some projects (and indeed, some issues which are to be worked
+on for those projects). In particular, we have Percival -- a Ruby IRC bot based
+on the Cinch framework. Because of Cinch's plugin architecture, it's very easy
+to write isolated code which will work with Percy without issue. There is also
+opportunity for building a better testing apparatus for Percy. Right now there
+is a very simple mock IRC channel which he interacts with to exercise some of
+the plugin functionality, but it is far from ideal. 
+
+We also have the LPMC website to think about. It is much earlier in the creation
+process than Percy[2], we're still in the hashing-out-features phase. I'm
+working on a minimum viable feature list, and I encourage you all (designers
+especially) to look at the site's sole issue on github to get an idea of where
+I'm going, and to think about some front end designs for the site.
+
+Finally, Jacob Gulotta (better known as zzyzzyxx) has added two projects based
+in C++. One is an idea for a generic, pluggable A\* pathfinder, which -- when
+provided an interface to your coordinate system and some other information --
+will provide a fast pathfinding algorithm with minimal fuss.
+
+He has also added a project to port [galib](http://lancet.mit.edu/ga) to C++11.
+
+As we add more mentors, I hope we also expand our project list to include more
+languages, more paradigms, and generally, more styles of programming. If you'd
+like to participate (and you haven't already posted on the previous post) please
+feel free to PM me with your name, email, github name, and a description of your
+experience. While there is no strict requirement of professional or
+non-professional experience, I've been using the general rule of more experience
+is better, good github contributions/projects is better, and good contributions
+in this subreddit and elsewhere are also important. If I don't respond to you,
+don't take it to mean you are not welcome to contribute (and even mentor)
+unofficially on any of the LPMC projects. Official mentor status will, ideally,
+come through community merit _most of the time_.
+
+
+[1] Cue evil laugh
+
+[2] Percy is a project I "donated" to LPMC, so it has a bit of previous history.
