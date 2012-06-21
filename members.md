@@ -19,3 +19,8 @@
 - Zach Barnes (Zacharias3690)
 
 #Associates
+
+
+#Learners
+
+- Darren Tsung (EvilFunnyBunny)
