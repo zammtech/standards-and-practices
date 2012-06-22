@@ -17,6 +17,7 @@
 
 - Yash Ahuja (yash3ahuja)
 - Zach Barnes (Zacharias3690)
+- Teddy Wong (Tinyted)
 
 #Associates
 
