@@ -2,11 +2,11 @@
 
 ## Why we Mentor
 
-Recently I posted about starting a group on github dedicated to providing free,
-libre, open source software projects for new FLOSS contributors to work on in an
-environment conducive to learning, rather than the more usual environment of
-comfortable (usually polite) hostility that is seen in so many major FLOSS
-projects.
+Recently (okay, a while ago...) I posted about starting a group on github
+dedicated to providing free, libre, open source software projects for new FLOSS
+contributors to work on in an environment conducive to learning, rather than the
+more usual environment of comfortable (usually polite) hostility that is seen in
+so many major FLOSS projects.
 
 In particular, our goal is to take what usually results in a "Nope" and a
 rejected pull request and use it as a teaching opportunity, to better train
@@ -51,18 +51,22 @@ opportunity for building a better testing apparatus for Percy. Right now there
 is a very simple mock IRC channel which he interacts with to exercise some of
 the plugin functionality, but it is far from ideal. 
 
-We also have the LPMC website to think about. It is much earlier in the creation
-process than Percy[2], we're still in the hashing-out-features phase. I'm
-working on a minimum viable feature list, and I encourage you all (designers
-especially) to look at the site's sole issue on github to get an idea of where
-I'm going, and to think about some front end designs for the site.
+Fourthly, we also have the LPMC website to think about. It is much earlier in
+the creation process than Percy[2], we're still in the hashing-out-features
+phase. I'm working on a minimum viable feature list, and I encourage you all
+(designers especially) to look at the site's sole issue on github to get an idea
+of where I'm going, and to think about some front end designs for the site.
 
-Finally, Jacob Gulotta (better known as zzyzzyxx) has added two projects based
-in C++. One is an idea for a generic, pluggable A\* pathfinder, which -- when
-provided an interface to your coordinate system and some other information --
-will provide a fast pathfinding algorithm with minimal fuss.
+Fifthly, there is an IRC channel on freenode for the LPMC, convienently located
+at #lpmc. I'm in there most of the time, and if I'm not, ideally Percival (the
+LPMC IRC bot) will be (though thats a feature that needs to be implemented).
 
-He has also added a project to port [galib](http://lancet.mit.edu/ga) to C++11.
+Finally, Jacob Gulotta (better known as zzyzzyxx) will be adding two projects
+based in C++. One is an idea for a generic, pluggable A\* pathfinder, which --
+when provided an interface to your coordinate system and some other information
+-- will provide a fast pathfinding algorithm with minimal fuss.
+
+He will also be adding a project to port [galib](http://lancet.mit.edu/ga) to C++11.
 
 As we add more mentors, I hope we also expand our project list to include more
 languages, more paradigms, and generally, more styles of programming. If you'd
@@ -76,6 +80,16 @@ don't take it to mean you are not welcome to contribute (and even mentor)
 unofficially on any of the LPMC projects. Official mentor status will, ideally,
 come through community merit _most of the time_.
 
+## TL;DR
+
+LPMC is live! There are some tickets on Percival and the site already. Shortly
+there will be some C++ projects up there. I'll be messaging more of you to drum
+up some more projects and mentors. 
+
+I'll be adding more tickets to the existing projects as they come up. So -- get
+coding!
+
+================================================================================
 
 [1] Cue evil laugh
 
