@@ -15,9 +15,17 @@
 
 #Mentors
 
-- Yash Ahuja (yash3ahuja)
-- Zach Barnes (Zacharias3690)
-- Teddy Wong (Tinyted)
+- Yash Ahuja 
+  github: yash3ahuja
+
+- Zach Barnes 
+  github: Zacharias3690
+
+- Teddy Wong 
+  * github:Tinyted
+  * reddit:Tinytw
+  * Languages
+    - Objective-C
 
 #Associates
 
