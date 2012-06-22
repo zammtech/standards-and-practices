@@ -24,3 +24,4 @@
 #Learners
 
 - Darren Tsung (EvilFunnyBunny)
+- Bryce Guinta (Azrathud)
