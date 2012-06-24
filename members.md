@@ -32,6 +32,7 @@
 
 #Learners
 
+- Darren Tsung (EvilFunnyBunny)
 - Bharath Thiruveedula (bharathves
 - Darren Tsung (EvilFunnyBunny)
 - Jared Trouth (jaredtrouth)
@@ -43,3 +44,4 @@
 - Philippe Huerlimann (p-h)
 - Michael Lim (1ronclaw)
 - Zachary Richeu (mach1723)
+- Bryce Guinta (Azrathud)
