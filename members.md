@@ -32,7 +32,6 @@
 
 #Learners
 
-- Darren Tsung (EvilFunnyBunny)
 - Bharath Thiruveedula (bharathves
 - Darren Tsung (EvilFunnyBunny)
 - Jared Trouth (jaredtrouth)
@@ -40,12 +39,10 @@
 - Mathieu Hendey (mathieuhendey)
 - Mike Chen (mhchen)
 - Roc Hodges (myth134)
-<<<<<<< HEAD
 - Leon Cheung (fsxfreak)
 - Philippe Huerlimann (p-h)
 - Michael Lim (1ronclaw)
 - Zachary Richeu (mach1723)
 - Bryce Guinta (Azrathud)
-=======
 - Andrew Suppa (antaios256)
->>>>>>> 3bbcc38... Update master
+- Collin Watts (Locke Watts)
