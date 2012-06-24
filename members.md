@@ -31,3 +31,4 @@
 - Mathieu Hendey (mathieuhendey)
 - Mike Chen (mhchen)
 - Roc Hodges (myth134)
+- Leon Cheung (fsxfreak)
