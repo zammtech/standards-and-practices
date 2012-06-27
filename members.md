@@ -9,10 +9,15 @@
 #Project Leaders
 
 - Percival
-  - Joe Fredette (jfredett)
+  - Ruby IRC bot
+  - Leader: Joe Fredette (jfredett)
 - LPMC-site
-  - Joe Fredette (jfredett)
-
+  - ROR site for the LPMC
+  - Leader: Joe Fredette (jfredett)
+- LPMCBot 
+  - Python IRC bot
+  - Leader: SlimTim10 
+  
 #Mentors
 
 - Yash Ahuja 
@@ -30,7 +35,6 @@
 - SlimTim10
   * github: SlimTim10
   * reddit: SlimTim10
-  * Projects: LPMCBot (Python IRC Bot)
 
 #Associates
 
