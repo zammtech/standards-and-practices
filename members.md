@@ -27,6 +27,11 @@
   * Languages
     - Objective-C
 
+- SlimTim10
+  * github: SlimTim10
+  * reddit: SlimTim10
+  * Projects: LPMCBot (Python IRC Bot)
+
 #Associates
 
 
