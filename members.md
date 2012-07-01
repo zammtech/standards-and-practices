@@ -58,3 +58,4 @@
 - Pavan Sudheendra (91pavan)
 - Benjamin Campbell (benjic)
 - Zachary Massia (ZachMassia)
+- Quentin Chouleur (Oflocet)
