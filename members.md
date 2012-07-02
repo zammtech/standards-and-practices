@@ -59,3 +59,4 @@
 - Benjamin Campbell (benjic)
 - Zachary Massia (ZachMassia)
 - Quentin Chouleur (Oflocet)
+- Scott Prager (SplinterOfChaos)
