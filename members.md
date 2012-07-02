@@ -36,6 +36,9 @@
   * github: SlimTim10
   * reddit: SlimTim10
 
+- Lance Batson
+  * github/reddit/irc: intothev01d
+
 #Associates
 
 
@@ -44,7 +47,6 @@
 - Bharath Thiruveedula (bharathves
 - Darren Tsung (EvilFunnyBunny)
 - Jared Trouth (jaredtrouth)
-- Lance Batson (intothev01d)
 - Mathieu Hendey (mathieuhendey)
 - Mike Chen (mhchen)
 - Roc Hodges (myth134)
