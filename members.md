@@ -36,7 +36,7 @@
   * **github:** Tinyted
   * **reddit:** Tinytw
   * Languages
-  ** Objective-C
+    * Objective-C
 
 - SlimTim10
   * **github:** SlimTim10
@@ -49,10 +49,10 @@
   * **github:** bernardm
   * **reddit:** levu-webworks
   * Languages
-  ** C & undecided
-  ** C++ & wxWindows
-  ** PHP - not going to do a PHP tutorial. Plenty of those already.
-  ** Python & Flask, Jinja2
+    * C & undecided
+    * C++ & wxWindows
+    * PHP - not going to do a PHP tutorial. Plenty of those already.
+    * Python & Flask, Jinja2
 
 
 #Associates
