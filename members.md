@@ -26,26 +26,25 @@
 
 #Mentors
 
-- Yash Ahuja
+#### Yash Ahuja
   * **github:** yash3ahuja
 
-- Zach Barnes
+#### Zach Barnes
   * **github:** Zacharias3690
 
-- Teddy Wong
+#### Teddy Wong
   * **github:** Tinyted
   * **reddit:** Tinytw
   * Languages
     * Objective-C
 
-- SlimTim10
-  * **github:** SlimTim10
+#### SlimTim10
   * **github:** SlimTim10
 
-- Lance Batson
+#### Lance Batson
   * **github/reddit/irc:** intothev01d
 
-- Bernard Martis
+#### Bernard Martis
   * **github:** bernardm
   * **reddit:** levu-webworks
   * Languages
