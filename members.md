@@ -11,40 +11,56 @@
 - Percival
   - Ruby IRC bot
   - Leader: Joe Fredette (jfredett)
+
 - LPMC-site
   - ROR site for the LPMC
   - Leader: Joe Fredette (jfredett)
-- LPMCBot 
+
+- LPMCBot
   - Python IRC bot
-  - Leader: SlimTim10 
-  
+  - Leader: SlimTim10
+
+- levuBlackJack
+  - Python web app using Flask, Jinja2
+  - Leader: Bernard Martis (bernardm)
+
 #Mentors
 
-- Yash Ahuja 
-  github: yash3ahuja
+#### Yash Ahuja
+  * **github:** yash3ahuja
 
-- Zach Barnes 
-  github: Zacharias3690
+#### Zach Barnes
+  * **github:** Zacharias3690
 
-- Teddy Wong 
-  * github:Tinyted
-  * reddit:Tinytw
+#### Teddy Wong
+  * **github:** Tinyted
+  * **reddit:** Tinytw
   * Languages
-    - Objective-C
+    * Objective-C
 
-- SlimTim10
-  * github: SlimTim10
-  * reddit: SlimTim10
+#### SlimTim10
+  * **github:** SlimTim10
 
-- Lance Batson
-  * github/reddit/irc: intothev01d
+#### Lance Batson
+  * **github/reddit/irc:** intothev01d
+
+#### Bernard Martis
+  * **github:** bernardm
+  * **reddit:** levu-webworks
+  * Languages
+    * C & undecided
+    * C++ & wxWindows
+    * PHP - not going to do a PHP tutorial. Plenty of those already.
+    * Python & Flask, Jinja2
+
 
 #Associates
 
 
 #Learners
 
-- Bharath Thiruveedula (bharathves
+- Bernard Martis (bernardm)
+- Bharath Thiruveedula (bharathves)
 - Darren Tsung (EvilFunnyBunny)
 - Jared Trouth (jaredtrouth)
 - Mathieu Hendey (mathieuhendey)
