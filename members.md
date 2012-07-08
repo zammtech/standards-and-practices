@@ -62,6 +62,7 @@
 - Bernard Martis (bernardm)
 - Bharath Thiruveedula (bharathves)
 - Darren Tsung (EvilFunnyBunny)
+- Eugene Pustovit (logiartis)
 - Jared Trouth (jaredtrouth)
 - Mathieu Hendey (mathieuhendey)
 - Mike Chen (mhchen)
