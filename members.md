@@ -81,3 +81,4 @@
 - Scott Prager (SplinterOfChaos)
 - Kenny Yang (kyang321)
 - Angela Sheu (angelasheu)
+-Taylor SKidmore (SirSkidmore)
