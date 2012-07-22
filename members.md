@@ -93,3 +93,4 @@
 - Brandon Luth (brandonl)
 - Arne Fostvedt (arn-e)
 - Martin Colwell (colwem)
+- Hans Saleh (hsaleh)
