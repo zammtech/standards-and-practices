@@ -109,3 +109,4 @@
 - John Ryder (tokens)
 - Will Cusick (Zare)
 - Andrew Salem (gnomemage7)
+- Nancy Iskander (C-xC-q)
