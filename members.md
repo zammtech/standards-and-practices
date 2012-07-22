@@ -98,3 +98,4 @@
 - Mark Simpson (mark-up)
 - James Brewer (BrewerHimself)
 - Jack Taylor-Crush (jxtcman)
+- Adrian Wawrzak (Adiqq)
