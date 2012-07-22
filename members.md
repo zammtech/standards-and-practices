@@ -83,3 +83,4 @@
 - Angela Sheu (angelasheu)
 - Taylor SKidmore (SirSkidmore)
 - Trent Robbins (robbintt)
+- Sean Dickinson (sedickinson)
