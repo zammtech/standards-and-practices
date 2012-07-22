@@ -99,3 +99,4 @@
 - James Brewer (BrewerHimself)
 - Jack Taylor-Crush (jxtcman)
 - Adrian Wawrzak (Adiqq)
+- Andrew Pierce (qcpw)
