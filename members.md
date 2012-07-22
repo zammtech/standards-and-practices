@@ -8,15 +8,15 @@
 
 #Project Leaders
 
-- Percival
+- [Percival](https://github.com/LearnProgramming/percival)
   - Ruby IRC bot
   - Leader: Joe Fredette (jfredett)
 
-- LPMC-site
-  - ROR site for the LPMC
+- [LPMC-site](https://github.com/LearnProgramming/lpmc-site)
+  - Rails site for the LPMC
   - Leader: Joe Fredette (jfredett)
 
-- LPMCBot
+- [LPMCBot](https://github.com/LearnProgramming/LPMCBot)
   - Python IRC bot
   - Leader: SlimTim10
 
@@ -27,32 +27,38 @@
 #Mentors
 
 #### Yash Ahuja
-  * **github:** yash3ahuja
+  * **github:** [yash3ahuja](https://github.com/yash3ahuja)
 
 #### Zach Barnes
-  * **github:** Zacharias3690
+  * **github:** [Zacharias3690](https://github.com/Zacharias3690)
 
 #### Teddy Wong
-  * **github:** Tinyted
-  * **reddit:** Tinytw
+  * **github:** [Tinyted](https://github.com/Tinyted)
+  * **reddit:** [Tinytw](http://reddit.com/u/Tinytw)
   * Languages
     * Objective-C
 
 #### SlimTim10
-  * **github:** SlimTim10
+  * **github:** [SlimTim10](https://github.com/SlimTim10)
 
 #### Lance Batson
-  * **github/reddit/irc:** intothev01d
+  * **[github](https://github.com/intothev01d)/ [reddit](http://reddit.com/u/intothev01d)/ irc:** intothev01d
 
 #### Bernard Martis
-  * **github:** bernardm
-  * **reddit:** levu-webworks
+  * **github:** [bernardm](https://github.com/bernardm)
+  * **reddit:** [levu-webworks](http://reddit.com/u/levu-webworks)
   * Languages
     * C & undecided
     * C++ & wxWindows
     * PHP - not going to do a PHP tutorial. Plenty of those already.
     * Python & Flask, Jinja2
 
+#### _lowell
+  * **github:** [lowell](https://github.com/lowell)
+  * **reddit:** [_lowell](http://reddit.com/u/_lowell)
+  * Languages
+    * Objective-C
+    * C/CoreFoundation
 
 #Associates
 
