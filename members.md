@@ -95,3 +95,4 @@
 - Martin Colwell (colwem)
 - Hans Saleh (hsaleh)
 - Shunichi Otsuka (vascoosx)
+- Jack Taylor-Crush (jxtcman)
