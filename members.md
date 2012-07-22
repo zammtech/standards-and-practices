@@ -94,3 +94,4 @@
 - Arne Fostvedt (arn-e)
 - Martin Colwell (colwem)
 - Hans Saleh (hsaleh)
+- Shunichi Otsuka (vascoosx)
