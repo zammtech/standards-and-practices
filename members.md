@@ -95,3 +95,4 @@
 - Martin Colwell (colwem)
 - Hans Saleh (hsaleh)
 - Shunichi Otsuka (vascoosx)
+- James Brewer (BrewerHimself)
