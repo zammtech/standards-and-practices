@@ -100,3 +100,5 @@
 - Jack Taylor-Crush (jxtcman)
 - Adrian Wawrzak (Adiqq)
 - Andrew Pierce (qcpw)
+- Johnicholas Hines (Johnicholas)
+- Ash Courchene (Acour83)
