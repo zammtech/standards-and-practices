@@ -3,16 +3,16 @@
 
 | **Title** | **Name** | **GitHub** | **Reddit** | **Languages** |
 |:----------|:---------|:-----------|:-----------|:--------------|
-|Dictatus |Joe Fredette |[jfredett](https://github.com/jfredett) |[jfredett](http://www.reddit.com/user/jfredett) ||
-|Chief Mentor |Jacob Gulotta |[jgulotta](https://github.com/jgulotta) ||C++ |
+|Dictatus |Joe Fredette |[jfredett](https://github.com/jfredett) |[jfredett](http://www.reddit.com/user/jfredett) | Ruby |
+|Chief Mentor |Jacob Gulotta |[jgulotta](https://github.com/jgulotta) || C++ |
 |Mentor |Yash Ahuja |[yash3ahuja](https://github.com/yash3ahuja) |||
 |Mentor |Zach Barnes |[Zacharias3690](https://github.com/Zacharias3690) |||
-|Mentor |Teddy Wong |[Tinyted](https://github.com/Tinyted) |[Tinytw](http://reddit.com/u/Tinytw) |Objective-C |
-|Mentor |SlimTim10 |[SlimTim10](https://github.com/SlimTim10) |[SlimTim10](http://www.reddit.com/user/SlimTim10) |Assembler, Python|
-|Mentor |Lance Batson |[intothev01d](https://github.com/intothev01d/) |[intothev01d](http://reddit.com/u/intothev01d) | Python|
+|Mentor |Teddy Wong |[Tinyted](https://github.com/Tinyted) |[Tinytw](http://reddit.com/u/Tinytw) | Objective-C |
+|Mentor |SlimTim10 |[SlimTim10](https://github.com/SlimTim10) |[SlimTim10](http://www.reddit.com/user/SlimTim10) | Assembler, Python, Pearl, C|
+|Mentor |Lance Batson |[intothev01d](https://github.com/intothev01d/) |[intothev01d](http://reddit.com/u/intothev01d) | C++, Objective-C |
 |Mentor |Bernard Martis | [bernardm](https://github.com/bernardm) |[levu-webworks](http://reddit.com/u/levu-webworks) | C, C++, PHP, Python |
-|Mentor |_lowell |[lowell](https://github.com/lowell) |[_lowell](http://reddit.com/u/_lowell) |Objective-C, C/CoreFoundation |
-|Mentor |Mathieu Hendey |[mathieuhendey](https://github.com/mathieuhendey) ||Objective-C |
+|Mentor |_lowell |[lowell](https://github.com/lowell) |[_lowell](http://reddit.com/u/_lowell) | Objective-C, C/CoreFoundation |
+|Mentor |Mathieu Hendey |[mathieuhendey](https://github.com/mathieuhendey) || Objective-C |
 
 ## Project Roster
 
