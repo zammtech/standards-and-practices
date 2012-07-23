@@ -34,6 +34,7 @@ Format:
 | **Name** | **GitHub** | **Notes** |
 |:---------|:-----------|:----------|
 | Adrian Wawrzak | [Adiqq](https://github.com/Adiqq) ||
+| Alexandru Oana | [Galati1337](https://github.com/Galati1337) ||
 | Andrew Pierce | [qcpw](https://github.com/qcpw) ||
 | Andrew Salem | [gnomemage7](https://github.com/gnomemage7) ||
 | Andrew Suppa | [antaios256](https://github.com/antaios256) ||
