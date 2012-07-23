@@ -1,115 +1,83 @@
-#Dictatus Benedictus Perpetuum
+# Roster -- Learn Programming Mentoring Community
+## Mentor Roster
 
-- Joe Fredette (jfredett)
+| **Title** | **Name** | **GitHub** | **Reddit** | **Languages** |
+|:----------|:---------|:-----------|:-----------|:--------------|
+|Dictatus |Joe Fredette |[jfredett](https://github.com/jfredett) |[jfredett](http://www.reddit.com/user/jfredett) ||
+|Chief Mentor |Jacob Gulotta |[jgulotta](https://github.com/jgulotta) ||C++ |
+|Mentor |Yash Ahuja |[yash3ahuja](https://github.com/yash3ahuja) |||
+|Mentor |Zach Barnes |[Zacharias3690](https://github.com/Zacharias3690) |||
+|Mentor |Teddy Wong |[Tinyted](https://github.com/Tinyted) |[Tinytw](http://reddit.com/u/Tinytw) |Objective-C |
+|Mentor |SlimTim10 |[SlimTim10](https://github.com/SlimTim10) ||Assembler, Python|
+|Mentor |Lance Batson |[intothev01d](https://github.com/intothev01d/) |[intothev01d](http://reddit.com/u/intothev01d) | Python|
+|Mentor |Bernard Martis | [bernardm](https://github.com/bernardm) |[levu-webworks](http://reddit.com/u/levu-webworks) | C, C++, PHP, Python |
+|Mentor |_lowell |[lowell](https://github.com/lowell) |[_lowell](http://reddit.com/u/_lowell) |Objective-C, C/CoreFoundation |
+|Mentor |Mathieu Hendey |[mathieuhendey](https://github.com/mathieuhendey) ||Objective-C |
 
-#Chief Mentors
+## Project Roster
 
-- Jacob Gulotta (jgulotta)
+| **Language** | **Mentor** | **Project** | **Notes** |
+|:-------------|:-----------|:------------|:----------|
+| C++ | [Jacob Gulotta](https://github.com/jgulotta) | [libastar](https://github.com/LearnProgramming/libastar) | A pluggable C++ library for executing the A* algorithm |
+| Objective-C | [Mathieu Hendey](https://github.com/mathieuhendey) | [RedditWeather](https://github.com/LearnProgramming/RedditWeather) | A weather app for learning iOS development |
+| Python | [Bernard Martis](https://github.com/bernardm) | [lpmc-blackjack-py](https://github.com/LearnProgramming/lpmc-blackjack-py) | Python web app using Flask, Jinja2 |
+| Python | [SlimTim10](https://github.com/SlimTim10) | [LPMCBot](https://github.com/LearnProgramming/LPMCBot) | Python IRC bot |
+| Ruby | [Joe Fredette](https://github.com/jfredett) | [LPMC-site](https://github.com/LearnProgramming/lpmc-site) | Rails site for the LPMC |
+| Ruby | [Joe Fredette](https://github.com/jfredett) | [Percival](https://github.com/LearnProgramming/percival) | Ruby IRC bot |
 
-#Project Leaders
+## Student Roster
 
-- [Percival](https://github.com/LearnProgramming/percival)
-  - Ruby IRC bot
-  - Leader: Joe Fredette (jfredett)
-
-- [LPMC-site](https://github.com/LearnProgramming/lpmc-site)
-  - Rails site for the LPMC
-  - Leader: Joe Fredette (jfredett)
-
-- [LPMCBot](https://github.com/LearnProgramming/LPMCBot)
-  - Python IRC bot
-  - Leader: SlimTim10
-
-- levuBlackJack
-  - Python web app using Flask, Jinja2
-  - Leader: Bernard Martis (bernardm)
-
-#Mentors
-
-#### Yash Ahuja
-  * **github:** [yash3ahuja](https://github.com/yash3ahuja)
-
-#### Zach Barnes
-  * **github:** [Zacharias3690](https://github.com/Zacharias3690)
-
-#### Teddy Wong
-  * **github:** [Tinyted](https://github.com/Tinyted)
-  * **reddit:** [Tinytw](http://reddit.com/u/Tinytw)
-  * Languages
-    * Objective-C
-
-#### SlimTim10
-  * **github:** [SlimTim10](https://github.com/SlimTim10)
-
-#### Lance Batson
-  * **[github](https://github.com/intothev01d)/ [reddit](http://reddit.com/u/intothev01d)/ irc:** intothev01d
-
-#### Bernard Martis
-  * **github:** [bernardm](https://github.com/bernardm)
-  * **reddit:** [levu-webworks](http://reddit.com/u/levu-webworks)
-  * Languages
-    * C & undecided
-    * C++ & wxWindows
-    * PHP - not going to do a PHP tutorial. Plenty of those already.
-    * Python & Flask, Jinja2
-
-#### _lowell
-  * **github:** [lowell](https://github.com/lowell)
-  * **reddit:** [_lowell](http://reddit.com/u/_lowell)
-  * Languages
-    * Objective-C
-    * C/CoreFoundation
-
-#Associates
+Format:   
+```| <Your Name> | [<GitHub Username>](https://github.com/<GitHub Username>) | <Note Here> |```
 
 
-#Learners
-
-- Bernard Martis (bernardm)
-- Bharath Thiruveedula (bharathves)
-- Darren Tsung (EvilFunnyBunny)
-- Eugene Pustovit (logiartis)
-- Jared Trouth (jaredtrouth)
-- Mathieu Hendey (mathieuhendey)
-- Mike Chen (mhchen)
-- Roc Hodges (myth134)
-- Leon Cheung (fsxfreak)
-- Philippe Huerlimann (p-h)
-- Michael Lim (1ronclaw)
-- Zachary Richeu (mach1723)
-- Bryce Guinta (Azrathud)
-- Andrew Suppa (antaios256)
-- Collin Watts (Locke Watts)
-- Pavan Sudheendra (91pavan)
-- Benjamin Campbell (benjic)
-- Zachary Massia (ZachMassia)
-- Quentin Chouleur (Oflocet)
-- Scott Prager (SplinterOfChaos)
-- Kenny Yang (kyang321)
-- Angela Sheu (angelasheu)
-- Taylor SKidmore (SirSkidmore)
-- Trent Robbins (robbintt)
-- Sean Dickinson (sedickinson)
-- Brandon Luth (brandonl)
-- Arne Fostvedt (arn-e)
-- Martin Colwell (colwem)
-- Hans Saleh (hsaleh)
-- Shunichi Otsuka (vascoosx)
-- Mark Simpson (mark-up)
-- James Brewer (BrewerHimself)
-- Jack Taylor-Crush (jxtcman)
-- Adrian Wawrzak (Adiqq)
-- Andrew Pierce (qcpw)
-- Johnicholas Hines (Johnicholas)
-- Ash Courchene (Acour83)
-- Zach Thacker (SirBraneDamuj)
-- Tim Downey (tcdowney)
-- Jonas Raedle (Jonas-R)
-- Matt Kovars (akovaski)
-- John Ryder (tokens)
-- Will Cusick (Zare)
-- Andrew Salem (gnomemage7)
-- Nancy Iskander (C-xC-q)
-- Vicki Le (vnle)
-- Scott Kaye (JaxoDI)
-- Matt Lancaster (lank81)
+| **Name** | **GitHub** | **Notes** |
+|:---------|:-----------|:----------|
+| Adrian Wawrzak | [Adiqq](https://github.com/Adiqq) ||
+| Andrew Pierce | [qcpw](https://github.com/qcpw) ||
+| Andrew Salem | [gnomemage7](https://github.com/gnomemage7) ||
+| Andrew Suppa | [antaios256](https://github.com/antaios256) ||
+| Angela Sheu | [angelasheu](https://github.com/angelasheu) ||
+| Arne Fostvedt | [arn-e](https://github.com/arn-e) ||
+| Ash Courchene | [Acour83](https://github.com/Acour83) ||
+| Benjamin Campbell | [benjic](https://github.com/benjic) ||
+| Bernard Martis | [bernardm](https://github.com/bernardm) | I have many years of programming experience in C++ and would like to work on the libAStar project. |
+| Bharath Thiruveedula | [bharathves](https://github.com/bharathves) ||
+| Brandon Luth | [brandonl](https://github.com/brandonl) ||
+| Bryce Guinta | [Azrathud](https://github.com/Azrathud) ||
+| Collin Watts | [Locke Watts](https://github.com/Locke Watts) ||
+| Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
+| Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
+| Hans Saleh | [hsaleh](https://github.com/hsaleh) ||
+| Jack Taylor-Crush | [jxtcman](https://github.com/jxtcman) ||
+| James Brewer | [BrewerHimself](https://github.com/BrewerHimself) ||
+| Jared Trouth | [jaredtrouth](https://github.com/jaredtrouth) ||
+| John Ryder | [tokens](https://github.com/tokens) ||
+| Johnicholas Hines | [Johnicholas](https://github.com/Johnicholas) ||
+| Jonas Raedle | [Jonas-R](https://github.com/Jonas-R) ||
+| Kenny Yang | [kyang321](https://github.com/kyang321) ||
+| Leon Cheung | [fsxfreak](https://github.com/fsxfreak) ||
+| Mark Simpson | [mark-up](https://github.com/mark-up) ||
+| Martin Colwell | [colwem](https://github.com/colwem) ||
+| Mathieu Hendey | [mathieuhendey](https://github.com/mathieuhendey) ||
+| Matt Kovars | [akovaski](https://github.com/akovaski) ||
+| Matt Lancaster | [lank81](https://github.com/lank81) ||
+| Michael Lim | [1ronclaw](https://github.com/1ronclaw) ||
+| Mike Chen | [mhchen](https://github.com/mhchen) ||
+| Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
+| Pavan Sudheendra | [91pavan](https://github.com/91pavan) ||
+| Philippe Huerlimann | [p-h](https://github.com/p-h) ||
+| Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
+| Roc Hodges | [myth134](https://github.com/myth134) ||
+| Scott Kaye | [JaxoDI](https://github.com/JaxoDI) ||
+| Scott Prager | [SplinterOfChaos](https://github.com/SplinterOfChaos) ||
+| Sean Dickinson | [sedickinson](https://github.com/sedickinson) ||
+| Shunichi Otsuka | [vascoosx](https://github.com/vascoosx) ||
+| Taylor SKidmore | [SirSkidmore](https://github.com/SirSkidmore) ||
+| Tim Downey | [tcdowney](https://github.com/tcdowney) ||
+| Trent Robbins | [robbintt](https://github.com/robbintt) ||
+| Vicki Le | [vnle](https://github.com/vnle) ||
+| Will Cusick | [Zare](https://github.com/Zare) ||
+| Zach Thacker | [SirBraneDamuj](https://github.com/SirBraneDamuj) ||
+| Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
+| Zachary Richeu | [mach1723](https://github.com/mach1723) ||
