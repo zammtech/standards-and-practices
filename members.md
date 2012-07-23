@@ -59,6 +59,7 @@ Format:
 | Jonas Raedle | [Jonas-R](https://github.com/Jonas-R) ||
 | Kenny Yang | [kyang321](https://github.com/kyang321) ||
 | Leon Cheung | [fsxfreak](https://github.com/fsxfreak) ||
+| Luke Cullina | [lcullina](https://github.com/lcullina) ||
 | Mark Simpson | [mark-up](https://github.com/mark-up) ||
 | Martin Colwell | [colwem](https://github.com/colwem) ||
 | Mathieu Hendey | [mathieuhendey](https://github.com/mathieuhendey) ||
