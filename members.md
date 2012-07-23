@@ -19,6 +19,7 @@
 | **Language** | **Mentor** | **Project** | **Notes** |
 |:-------------|:-----------|:------------|:----------|
 | C++ | [Jacob Gulotta](https://github.com/jgulotta) | [libastar](https://github.com/LearnProgramming/libastar) | A pluggable C++ library for executing the A* algorithm |
+| C++ | [Alexandru Oana](https://github.com/Galati1337) | [VeloceIndexer](https://github.com/LearnProgramming/VeloceIndexer) | A hi-performance media file indexer for Unix machines
 | Objective-C | [Mathieu Hendey](https://github.com/mathieuhendey) | [RedditWeather](https://github.com/LearnProgramming/RedditWeather) | A weather app for learning iOS development |
 | Python | [Bernard Martis](https://github.com/bernardm) | [lpmc-blackjack-py](https://github.com/LearnProgramming/lpmc-blackjack-py) | Python web app using Flask, Jinja2 |
 | Python | [SlimTim10](https://github.com/SlimTim10) | [LPMCBot](https://github.com/LearnProgramming/LPMCBot) | Python IRC bot |
@@ -34,7 +35,6 @@ Format:
 | **Name** | **GitHub** | **Notes** |
 |:---------|:-----------|:----------|
 | Adrian Wawrzak | [Adiqq](https://github.com/Adiqq) ||
-| Alexandru Oana | [Galati1337](https://github.com/Galati1337) ||
 | Andrew Pierce | [qcpw](https://github.com/qcpw) ||
 | Andrew Salem | [gnomemage7](https://github.com/gnomemage7) ||
 | Andrew Suppa | [antaios256](https://github.com/antaios256) ||
