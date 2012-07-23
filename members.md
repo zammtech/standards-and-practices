@@ -46,6 +46,7 @@ Format:
 | Brandon Luth | [brandonl](https://github.com/brandonl) ||
 | Bryce Guinta | [Azrathud](https://github.com/Azrathud) ||
 | Collin Watts | [Locke Watts](https://github.com/Locke Watts) ||
+| Clayton Walker | [creakywall](https://github.com/creakywall) ||
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
 | Hans Saleh | [hsaleh](https://github.com/hsaleh) ||
