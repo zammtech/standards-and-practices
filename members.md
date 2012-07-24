@@ -35,6 +35,7 @@ Format:
 | **Name** | **GitHub** | **Notes** |
 |:---------|:-----------|:----------|
 | Adrian Wawrzak | [Adiqq](https://github.com/Adiqq) ||
+| Alan Brogan | [jalanb](https://github.com/jalanb) | I have decades of programming experience in C, C++, Java, Python. Would like to learn how to become a FOSS contributor |
 | Andrew Pierce | [qcpw](https://github.com/qcpw) ||
 | Andrew Salem | [gnomemage7](https://github.com/gnomemage7) ||
 | Andrew Suppa | [antaios256](https://github.com/antaios256) ||
