@@ -47,6 +47,7 @@ Format:
 | Bharath Thiruveedula | [bharathves](https://github.com/bharathves) ||
 | Brandon Luth | [brandonl](https://github.com/brandonl) ||
 | Bryce Guinta | [Azrathud](https://github.com/Azrathud) ||
+| Chance Zibolski | [ecnahc515](https://github.com/ecnahc515 | 2nd Year College Student - Exp: Python, C++, C, Javascript, and some frameworks for each. Also very familiar with Linux! |
 | Collin Watts | [Locke Watts](https://github.com/Locke Watts) ||
 | Clayton Walker | [creakywall](https://github.com/creakywall) ||
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
