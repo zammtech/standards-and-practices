@@ -82,6 +82,7 @@ Format:
 | Trent Robbins | [robbintt](https://github.com/robbintt) ||
 | Vicki Le | [vnle](https://github.com/vnle) ||
 | Will Cusick | [Zare](https://github.com/Zare) ||
+| Will Usher | [Twinklebear](https://github.com/Twinklebear) | I have experience in C++ and some C#, and am learning Python, but am new to contributing to open source projects |
 | Zach Thacker | [SirBraneDamuj](https://github.com/SirBraneDamuj) ||
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
