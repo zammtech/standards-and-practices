@@ -13,7 +13,7 @@
 |Mentor |Bernard Martis | [bernardm](https://github.com/bernardm) |[levu-webworks](http://reddit.com/u/levu-webworks) | C, C++, PHP, Python |
 |Mentor |_lowell |[lowell](https://github.com/lowell) |[_lowell](http://reddit.com/u/_lowell) | Objective-C, C/CoreFoundation |
 |Mentor |Mathieu Hendey |[mathieuhendey](https://github.com/mathieuhendey) || Objective-C |
-|Mentor |Alexander Oana |[Alexandru Oana](https://github.com/Galati1337) || C++ |
+|Mentor |Alexander Oana |[Galati1337](https://github.com/Galati1337) || C++ |
 
 ## Project Roster
 
