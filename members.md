@@ -13,6 +13,7 @@
 |Mentor |Bernard Martis | [bernardm](https://github.com/bernardm) |[levu-webworks](http://reddit.com/u/levu-webworks) | C, C++, PHP, Python |
 |Mentor |_lowell |[lowell](https://github.com/lowell) |[_lowell](http://reddit.com/u/_lowell) | Objective-C, C/CoreFoundation |
 |Mentor |Mathieu Hendey |[mathieuhendey](https://github.com/mathieuhendey) || Objective-C |
+|Mentor |Alexander Oana |[Alexandru Oana](https://github.com/Galati1337) | C++ |
 
 ## Project Roster
 
@@ -48,9 +49,9 @@ Format:
 | Bharath Thiruveedula | [bharathves](https://github.com/bharathves) ||
 | Brandon Luth | [brandonl](https://github.com/brandonl) ||
 | Bryce Guinta | [Azrathud](https://github.com/Azrathud) ||
-| Chance Zibolski | [ecnahc515](https://github.com/ecnahc515 | 2nd Year College Student - Exp: Python, C++, C, Javascript, and some frameworks for each. Also very familiar with Linux! |
-| Collin Watts | [Locke Watts](https://github.com/Locke Watts) ||
+| Chance Zibolski | [ecnahc515](https://github.com/ecnahc515) | 2nd Year College Student - Exp: Python, C++, C, Javascript, and some frameworks for each. Also very familiar with Linux! |
 | Clayton Walker | [creakywall](https://github.com/creakywall) ||
+| Collin Watts | [Locke Watts](https://github.com/Locke Watts) ||
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
 | Hans Saleh | [hsaleh](https://github.com/hsaleh) ||
@@ -70,8 +71,8 @@ Format:
 | Matt Kovars | [akovaski](https://github.com/akovaski) ||
 | Matt Lancaster | [lank81](https://github.com/lank81) ||
 | Michael Lim | [1ronclaw](https://github.com/1ronclaw) ||
-| Mike Chen | [mhchen](https://github.com/mhchen) ||
 | Mike | [M0876](https://github.com/M0876) ||
+| Mike Chen | [mhchen](https://github.com/mhchen) ||
 | Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
 | Pavan Sudheendra | [91pavan](https://github.com/91pavan) ||
 | Philippe Huerlimann | [p-h](https://github.com/p-h) ||
