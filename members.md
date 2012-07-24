@@ -62,6 +62,7 @@ Format:
 | Leon Cheung | [fsxfreak](https://github.com/fsxfreak) ||
 | Luke Cullina | [lcullina](https://github.com/lcullina) ||
 | Mark Simpson | [mark-up](https://github.com/mark-up) ||
+| Marsel Zaripov | [TvoroG](https://github.com/TvoroG) ||
 | Martin Colwell | [colwem](https://github.com/colwem) ||
 | Mathieu Hendey | [mathieuhendey](https://github.com/mathieuhendey) ||
 | Matt Kovars | [akovaski](https://github.com/akovaski) ||
