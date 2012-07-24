@@ -40,6 +40,7 @@ Format:
 | Andrew Salem | [gnomemage7](https://github.com/gnomemage7) ||
 | Andrew Suppa | [antaios256](https://github.com/antaios256) ||
 | Angela Sheu | [angelasheu](https://github.com/angelasheu) ||
+| Anthony Gargiulo | [agargiulo](https://github.com/agargiulo) ||
 | Arne Fostvedt | [arn-e](https://github.com/arn-e) ||
 | Ash Courchene | [Acour83](https://github.com/Acour83) ||
 | Benjamin Campbell | [benjic](https://github.com/benjic) ||
