@@ -81,6 +81,7 @@ Format:
 | Scott Kaye | [JaxoDI](https://github.com/JaxoDI) ||
 | Scott Prager | [SplinterOfChaos](https://github.com/SplinterOfChaos) ||
 | Sean Dickinson | [sedickinson](https://github.com/sedickinson) ||
+| Sean Kelley | [smskelley](https://github.com/smskelley) | 2nd Year college student. Experience with: C++, perl, and python. |
 | Shunichi Otsuka | [vascoosx](https://github.com/vascoosx) ||
 | Taylor SKidmore | [SirSkidmore](https://github.com/SirSkidmore) ||
 | Tim Downey | [tcdowney](https://github.com/tcdowney) ||
