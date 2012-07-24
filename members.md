@@ -70,6 +70,7 @@ Format:
 | Matt Lancaster | [lank81](https://github.com/lank81) ||
 | Michael Lim | [1ronclaw](https://github.com/1ronclaw) ||
 | Mike Chen | [mhchen](https://github.com/mhchen) ||
+| Mike | [M0876](https://github.com/M0876) ||
 | Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
 | Pavan Sudheendra | [91pavan](https://github.com/91pavan) ||
 | Philippe Huerlimann | [p-h](https://github.com/p-h) ||
