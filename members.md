@@ -53,6 +53,7 @@ Format:
 | Chance Zibolski | [ecnahc515](https://github.com/ecnahc515) | 2nd Year College Student - Exp: Python, C++, C, Javascript, and some frameworks for each. Also very familiar with Linux! |
 | Clayton Walker | [creakywall](https://github.com/creakywall) ||
 | Collin Watts | [Locke Watts](https://github.com/Locke Watts) ||
+| Danielle Cerisier | [dpekkle](https://github.com/dpekkle) | Learning Python | 
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
 | Hans Saleh | [hsaleh](https://github.com/hsaleh) ||
