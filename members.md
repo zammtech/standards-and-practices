@@ -42,6 +42,7 @@ Format:
 | Andrew Suppa | [antaios256](https://github.com/antaios256) ||
 | Angela Sheu | [angelasheu](https://github.com/angelasheu) ||
 | Anthony Gargiulo | [agargiulo](https://github.com/agargiulo) ||
+| Armand Halbert | [ahalbert](https://github.com/ahalbert) ||
 | Arne Fostvedt | [arn-e](https://github.com/arn-e) ||
 | Ash Courchene | [Acour83](https://github.com/Acour83) ||
 | Benjamin Campbell | [benjic](https://github.com/benjic) ||
