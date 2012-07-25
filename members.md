@@ -85,7 +85,7 @@ Format:
 | Sean Dickinson | [sedickinson](https://github.com/sedickinson) ||
 | Sean Kelley | [smskelley](https://github.com/smskelley) | 2nd Year college student. Experience with: C++, perl, and python. |
 | Shunichi Otsuka | [vascoosx](https://github.com/vascoosx) ||
-| Taylor SKidmore | [SirSkidmore](https://github.com/SirSkidmore) ||
+| Taylor SKidmore | [SirSkidmore](https://github.com/SirSkidmore) || I have some experience in Ruby and C++; I am looking to get a better grasp on both languages.
 | Tim Downey | [tcdowney](https://github.com/tcdowney) ||
 | Trent Robbins | [robbintt](https://github.com/robbintt) ||
 | Vicki Le | [vnle](https://github.com/vnle) ||
