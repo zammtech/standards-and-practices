@@ -5,15 +5,18 @@
 |:----------|:---------|:-----------|:-----------|:--------------|
 |Dictatus |Joe Fredette |[jfredett](https://github.com/jfredett) |[jfredett](http://www.reddit.com/user/jfredett) | Ruby |
 |Chief Mentor |Jacob Gulotta |[jgulotta](https://github.com/jgulotta) || C++ |
-|Mentor |Yash Ahuja |[yash3ahuja](https://github.com/yash3ahuja) |||
-|Mentor |Zach Barnes |[Zacharias3690](https://github.com/Zacharias3690) |||
-|Mentor |Teddy Wong |[Tinyted](https://github.com/Tinyted) |[Tinytw](http://reddit.com/u/Tinytw) | Objective-C |
-|Mentor |SlimTim10 |[SlimTim10](https://github.com/SlimTim10) |[SlimTim10](http://www.reddit.com/user/SlimTim10) | Python |
-|Mentor |Lance Batson |[intothev01d](https://github.com/intothev01d/) |[intothev01d](http://reddit.com/u/intothev01d) | C++, Objective-C |
+|Mentor |Alexander Oana |[Galati1337](https://github.com/Galati1337) || C++ |
 |Mentor |Bernard Martis | [bernardm](https://github.com/bernardm) |[levu-webworks](http://reddit.com/u/levu-webworks) | C, C++, PHP, Python |
+|Mentor |Collin Watts | [LockeWatts](https://github.com/LockeWatts) | [LockeWatts](http://lockewatts.com) | Java, C, Objective-C, C#, PHP |
+|Mentor |Lance Batson |[intothev01d](https://github.com/intothev01d/) |[intothev01d](http://reddit.com/u/intothev01d) | C++, Objective-C |
 |Mentor |_lowell |[lowell](https://github.com/lowell) |[_lowell](http://reddit.com/u/_lowell) | Objective-C, C/CoreFoundation |
 |Mentor |Mathieu Hendey |[mathieuhendey](https://github.com/mathieuhendey) || Objective-C |
-|Mentor |Alexander Oana |[Galati1337](https://github.com/Galati1337) || C++ |
+|Mentor |SlimTim10 |[SlimTim10](https://github.com/SlimTim10) |[SlimTim10](http://www.reddit.com/user/SlimTim10) | Python |
+|Mentor |Teddy Wong |[Tinyted](https://github.com/Tinyted) |[Tinytw](http://reddit.com/u/Tinytw) | Objective-C |
+|Mentor |Yash Ahuja |[yash3ahuja](https://github.com/yash3ahuja) |||
+|Mentor |Zach Barnes |[Zacharias3690](https://github.com/Zacharias3690) |||
+
+
 
 ## Project Roster
 
@@ -26,6 +29,7 @@
 | Python | [SlimTim10](https://github.com/SlimTim10) | [LPMCBot](https://github.com/LearnProgramming/LPMCBot) | Python IRC bot |
 | Ruby | [Joe Fredette](https://github.com/jfredett) | [LPMC-site](https://github.com/LearnProgramming/lpmc-site) | Rails site for the LPMC |
 | Ruby | [Joe Fredette](https://github.com/jfredett) | [Percival](https://github.com/LearnProgramming/percival) | Ruby IRC bot |
+| Java | [Collin Watts](https://github.com/LockeWatts) | [LPMCCasino](https://github.com/LearnProgramming/LPMCCasino) | Java applet to gamble your heart out
 
 ## Student Roster
 
