@@ -80,6 +80,7 @@ Format:
 | Mike | [M0876](https://github.com/M0876) ||
 | Mike Chen | [mhchen](https://github.com/mhchen) ||
 | Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
+| Norman King | [generalram] (https://github.com/generalram) ||
 | Pavan Sudheendra | [91pavan](https://github.com/91pavan) ||
 | Philippe Huerlimann | [p-h](https://github.com/p-h) ||
 | Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
