@@ -82,6 +82,7 @@ Format:
 | Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
 | Norman King | [generalram] (https://github.com/generalram) ||
 | Pavan Sudheendra | [91pavan](https://github.com/91pavan) ||
+| Per K | [stressmf](https://github.com/stressmf) ||
 | Philippe Huerlimann | [p-h](https://github.com/p-h) ||
 | Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
 | Roc Hodges | [myth134](https://github.com/myth134) ||
