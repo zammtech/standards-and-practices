@@ -72,6 +72,7 @@ Format:
 | Leon Cheung | [fsxfreak](https://github.com/fsxfreak) ||
 | Luke Cullina | [lcullina](https://github.com/lcullina) ||
 | Luke Herron | [dafe](https://github.com/dafe) ||
+| Marc Sardon | [scruti](https://github.com/scruti) | Spanish computer science student. Exp with C++(no GUI) and Java programming. Currently learning Ruby|
 | Mark Poko    | [pokom](https://github.com/Pokom) |Recent graduate, working as a software developer on the East Coast. Primary languages outside of work is C++/Python, looking to continue developing in these languages because I will not use them at work|
 | Mark Simpson | [mark-up](https://github.com/mark-up) ||
 | Marsel Zaripov | [TvoroG](https://github.com/TvoroG) ||
