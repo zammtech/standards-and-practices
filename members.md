@@ -78,6 +78,7 @@ Format:
 | Marsel Zaripov | [TvoroG](https://github.com/TvoroG) ||
 | Martin Colwell | [colwem](https://github.com/colwem) ||
 | Mathieu Hendey | [mathieuhendey](https://github.com/mathieuhendey) ||
+| Matt Jones | [Marzipan](https://github.com/Marzipan) ||
 | Matt Kovars | [akovaski](https://github.com/akovaski) ||
 | Matt Lancaster | [lank81](https://github.com/lank81) ||
 | Michael Lim | [1ronclaw](https://github.com/1ronclaw) ||
