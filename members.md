@@ -89,6 +89,7 @@ Format:
 | Per K | [stressmf](https://github.com/stressmf) ||
 | Philippe Huerlimann | [p-h](https://github.com/p-h) ||
 | Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
+| Raymond Tang | [Raytray](https://github.com/Raytray) ||
 | Roc Hodges | [myth134](https://github.com/myth134) ||
 | Scott Kaye | [JaxoDI](https://github.com/JaxoDI) ||
 | Scott Prager | [SplinterOfChaos](https://github.com/SplinterOfChaos) ||
