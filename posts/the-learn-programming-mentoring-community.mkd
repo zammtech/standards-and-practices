@@ -22,7 +22,7 @@ The idea of LPMC is similar, then, to that of the Apache Incubator -- except the
 focus is not on the projects, but the contributors. Where the Apache Incubator
 aims to take maintainence of open source projects which are being EOLed (like
 Wave), or released from holding by a company (like Thrift), or otherwise in need
-of a new home. LPMC aims to help nuture and grow effective FLOSS contributors,
+of a new home. LPMC aims to help nurture and grow effective FLOSS contributors,
 to the benefit of the whole community.
 
 ## Why I'm posting
