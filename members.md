@@ -61,6 +61,7 @@ Format:
 | Danielle Cerisier | [dpekkle](https://github.com/dpekkle) | Learning Python | 
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
+| Greg Xu | [goooooouwa](https://github.com/goooooouwa) ||
 | Hans Saleh | [hsaleh](https://github.com/hsaleh) ||
 | Jack Taylor-Crush | [jxtcman](https://github.com/jxtcman) ||
 | James Brewer | [BrewerHimself](https://github.com/BrewerHimself) ||
