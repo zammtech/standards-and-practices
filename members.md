@@ -57,13 +57,16 @@ Format:
 | Brian Jerardi | [BrianJerardi](https://github.com/BrianJerardi) | I have a few years experience with programming as a hobby and freelance, but am looking to become more comfortable working on open source projects and in a team in general. ||
 | Bryce Guinta | [Azrathud](https://github.com/Azrathud) ||
 | Chance Zibolski | [ecnahc515](https://github.com/ecnahc515) | 2nd Year College Student - Exp: Python, C++, C, Javascript, and some frameworks for each. Also very familiar with Linux! |
+| Charlie Andrews | [sir-charles804](https://github.com/sir-charles804) | I am a university student. Have experience in Python, Javascript, and C# |
 | Clayton Walker | [creakywall](https://github.com/creakywall) ||
 | Collin Watts | [Locke Watts](https://github.com/LockeWatts) || Junior at the University of Georgia Honors program studying CS, been programming for a decade. Specialties in Java and mobile development. |
 | Danielle Cerisier | [dpekkle](https://github.com/dpekkle) | Learning Python |
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
+| Drew M | [yet-another](https://github.com/yet-another) ||
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
 | Greg Xu | [goooooouwa](https://github.com/goooooouwa) ||
 | Hans Saleh | [hsaleh](https://github.com/hsaleh) ||
+| Holly Styles | [hollystyles](https://github.com/hollystyles) | 12 years experience LOB apps using Microsoft stack. Interested in everything programming. |
 | Jack Taylor-Crush | [jxtcman](https://github.com/jxtcman) ||
 | James Brewer | [BrewerHimself](https://github.com/BrewerHimself) ||
 | Jared Trouth | [jaredtrouth](https://github.com/jaredtrouth) ||
@@ -110,6 +113,3 @@ Format:
 | Zach Thacker | [SirBraneDamuj](https://github.com/SirBraneDamuj) ||
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
-| Holly Styles | [hollystyles](https://github.com/hollystyles) | 12 years experience LOB apps using Microsoft stack. Interested in everything programming. |
-| Charlie Andrews | [sir-charles804](https://github.com/sir-charles804) | I am a university student. Have experience in Python, Javascript, and C# |
-| Drew M | [yet-another](https://github.com/yet-another) ||
