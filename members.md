@@ -98,6 +98,7 @@ Format:
 | Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
 | Raymond Tang | [Raytray](https://github.com/Raytray) ||
 | Roc Hodges | [myth134](https://github.com/myth134) ||
+| Scott Dubinsky | [sdubinsky](https://github.com/sdubinsky) ||
 | Scott Kaye | [JaxoDI](https://github.com/JaxoDI) ||
 | Scott Prager | [SplinterOfChaos](https://github.com/SplinterOfChaos) ||
 | Sean Dickinson | [sedickinson](https://github.com/sedickinson) ||
