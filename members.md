@@ -67,6 +67,7 @@ Format:
 | Greg Xu | [goooooouwa](https://github.com/goooooouwa) ||
 | Hans Saleh | [hsaleh](https://github.com/hsaleh) ||
 | Holly Styles | [hollystyles](https://github.com/hollystyles) | 12 years experience LOB apps using Microsoft stack. Interested in everything programming. |
+| Ian | [boomzilla](https://github.com/boomzilla) ||
 | Jack Taylor-Crush | [jxtcman](https://github.com/jxtcman) ||
 | James Brewer | [BrewerHimself](https://github.com/BrewerHimself) ||
 | Jared Trouth | [jaredtrouth](https://github.com/jaredtrouth) ||
