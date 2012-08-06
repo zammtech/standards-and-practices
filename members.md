@@ -43,6 +43,7 @@ Format:
 | Alan Brogan | [jalanb](https://github.com/jalanb) | I have decades of programming experience in C, C++, Java, Python. Would like to learn how to become a FOSS contributor |
 | Alex Mann | [southheat92](https://github.com/southheat92) ||
 | Andrew Pierce | [qcpw](https://github.com/qcpw) ||
+| Andrew Plassard | [aplassard](https://github.com/aplassard) ||
 | Andrew Salem | [gnomemage7](https://github.com/gnomemage7) ||
 | Andrew Suppa | [antaios256](https://github.com/antaios256) ||
 | Angela Sheu | [angelasheu](https://github.com/angelasheu) ||
