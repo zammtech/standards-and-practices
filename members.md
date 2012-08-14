@@ -47,6 +47,7 @@ Format:
 | Andrew Salem | [gnomemage7](https://github.com/gnomemage7) ||
 | Andrew Suppa | [antaios256](https://github.com/antaios256) ||
 | Angela Sheu | [angelasheu](https://github.com/angelasheu) ||
+| Anna Mach | [amach](https://github.com/amach) ||
 | Anthony Gargiulo | [agargiulo](https://github.com/agargiulo) ||
 | Armand Halbert | [ahalbert](https://github.com/ahalbert) ||
 | Arne Fostvedt | [arn-e](https://github.com/arn-e) ||
