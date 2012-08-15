@@ -92,6 +92,7 @@ Format:
 | Michael Lim | [1ronclaw](https://github.com/1ronclaw) ||
 | Mike | [M0876](https://github.com/M0876) ||
 | Mike Chen | [mhchen](https://github.com/mhchen) ||
+| Mitch L | [SilentFox](https://github.com/SilentFox) |Experience with Java, C++, C.  Learning Python.|
 | Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
 | thearrowflies | [ngbmameman](https://github.com/ngbmameman) | Experience with C++, Java, and learning Python. |
 | Norman King | [generalram] (https://github.com/generalram) ||
