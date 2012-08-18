@@ -97,6 +97,7 @@ Format:
 | thearrowflies | [ngbmameman](https://github.com/ngbmameman) | Experience with C++, Java, and learning Python. |
 | Norman King | [generalram] (https://github.com/generalram) ||
 | Pavan Sudheendra | [91pavan](https://github.com/91pavan) ||
+| Pedro S | [p5ilva](https://github.com/p5ilva) | Basic knowledge of Python, interested in learning more|
 | Per K | [stressmf](https://github.com/stressmf) ||
 | Philippe Huerlimann | [p-h](https://github.com/p-h) ||
 | Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
