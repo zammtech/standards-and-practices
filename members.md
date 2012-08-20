@@ -52,6 +52,7 @@ Format:
 | Armand Halbert | [ahalbert](https://github.com/ahalbert) ||
 | Arne Fostvedt | [arn-e](https://github.com/arn-e) ||
 | Ash Courchene | [Acour83](https://github.com/Acour83) ||
+| Avijeet Sachdev | [avijeets](https://github.com/avijeets) ||
 | Benjamin Campbell | [benjic](https://github.com/benjic) ||
 | Bernard Martis | [bernardm](https://github.com/bernardm) | I have many years of programming experience in C++ and would like to work on the libAStar project. |
 | Bharath Thiruveedula | [bharathves](https://github.com/bharathves) ||
