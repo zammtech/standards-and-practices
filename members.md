@@ -91,6 +91,7 @@ Format:
 | Matt Jones | [Marzipan](https://github.com/Marzipan) ||
 | Matt Kovars | [akovaski](https://github.com/akovaski) ||
 | Matt Lancaster | [lank81](https://github.com/lank81) ||
+| Matthias Wheelhouse | [Tunacrackers](https://github.com/tunacrackers) ||
 | Michael Lim | [1ronclaw](https://github.com/1ronclaw) ||
 | Mike | [M0876](https://github.com/M0876) ||
 | Mike Chen | [mhchen](https://github.com/mhchen) ||
