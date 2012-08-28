@@ -5,7 +5,6 @@
 |:----------|:---------|:-----------|:-----------|:--------------|
 |Dictatus |Joe Fredette |[jfredett](https://github.com/jfredett) |[jfredett](http://www.reddit.com/user/jfredett) | Ruby |
 |Chief Mentor |Jacob Gulotta |[jgulotta](https://github.com/jgulotta) || C++ |
-|Mentor |Alexander Oana |[Galati1337](https://github.com/Galati1337) || C++ |
 |Mentor |Bernard Martis | [bernardm](https://github.com/bernardm) |[levu-webworks](http://reddit.com/u/levu-webworks) | C, C++, PHP, Python |
 |Mentor |Collin Watts | [LockeWatts](https://github.com/LockeWatts) | [LockeWatts](http://lockewatts.com) | Java, C, Objective-C, C#, PHP |
 |Mentor |Lance Batson |[intothev01d](https://github.com/intothev01d/) |[intothev01d](http://reddit.com/u/intothev01d) | C++, Objective-C |
@@ -23,7 +22,6 @@
 | **Language** | **Mentor** | **Project** | **Notes** |
 |:-------------|:-----------|:------------|:----------|
 | C++ | [Jacob Gulotta](https://github.com/jgulotta) | [libastar](https://github.com/LearnProgramming/libastar) | A pluggable C++ library for executing the A* algorithm |
-| C++ | [Alexandru Oana](https://github.com/Galati1337) | [VeloceIndexer](https://github.com/LearnProgramming/VeloceIndexer) | A hi-performance media file indexer for Unix machines
 | Objective-C | [Mathieu Hendey](https://github.com/mathieuhendey) | [RedditWeather](https://github.com/LearnProgramming/RedditWeather) | A weather app for learning iOS development |
 | Python | [Bernard Martis](https://github.com/bernardm) | [lpmc-blackjack-py](https://github.com/LearnProgramming/lpmc-blackjack-py) | Python web app using Flask, Jinja2 |
 | Python | [SlimTim10](https://github.com/SlimTim10) | [LPMCBot](https://github.com/LearnProgramming/LPMCBot) | Python IRC bot |
