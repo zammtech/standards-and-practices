@@ -57,6 +57,7 @@ Format:
 | Bharath Thiruveedula | [bharathves](https://github.com/bharathves) ||
 | Brandon Luth | [brandonl](https://github.com/brandonl) ||
 | Brennan Plummer | [plumwick](https://github.com/plumwick) ||
+| Brian Dant | [briandant](https://github.com/briandant) | Beginnermediate Python progammer looking for mentors and learning to contribute to FOSS |
 | Brian Jerardi | [BrianJerardi](https://github.com/BrianJerardi) | I have a few years experience with programming as a hobby and freelance, but am looking to become more comfortable working on open source projects and in a team in general. ||
 | Bryce Guinta | [Azrathud](https://github.com/Azrathud) ||
 | Chance Zibolski | [ecnahc515](https://github.com/ecnahc515) | 2nd Year College Student - Exp: Python, C++, C, Javascript, and some frameworks for each. Also very familiar with Linux! |
