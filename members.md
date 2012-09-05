@@ -41,6 +41,7 @@ Format:
 | Adrian Wawrzak | [Adiqq](https://github.com/Adiqq) ||
 | Alan Brogan | [jalanb](https://github.com/jalanb) | I have decades of programming experience in C, C++, Java, Python. Would like to learn how to become a FOSS contributor |
 | Alex Mann | [southheat92](https://github.com/southheat92) ||
+| Amrit Ayalur | [aayalur](https://github.com/aayalur) | 17 year old self taught coder. Experience in Java/Ruby/JS/CSS/HTML |
 | Andrew Pierce | [qcpw](https://github.com/qcpw) ||
 | Andrew Plassard | [aplassard](https://github.com/aplassard) ||
 | Andrew Salem | [gnomemage7](https://github.com/gnomemage7) ||
