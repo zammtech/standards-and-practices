@@ -125,4 +125,4 @@ Format:
 | Zach Thacker | [SirBraneDamuj](https://github.com/SirBraneDamuj) ||
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
-| Gabriel Barth-Maron | [fastturtle](https://github.com/fastturtle) ||
+| Gabriel Barth-Maron | [fastturtle](https://github.com/fastturtle) | Intermediate Python and eager to learn anything, especially about contributing to FOSS.|
