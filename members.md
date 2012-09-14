@@ -69,6 +69,7 @@ Format:
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
 | Drew M | [yet-another](https://github.com/yet-another) ||
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
+| Good Luck | [TinKanSinar](https://github.com/TinKanSinar) | Dabbled in Python, C/C++, Java, and Basic. Soon going to college for comp science. Hopes to get experience outside of that. |
 | Greg Xu | [goooooouwa](https://github.com/goooooouwa) ||
 | Hans Saleh | [hsaleh](https://github.com/hsaleh) ||
 | Holly Styles | [hollystyles](https://github.com/hollystyles) | 12 years experience LOB apps using Microsoft stack. Interested in everything programming. |
