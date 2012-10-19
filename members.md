@@ -83,6 +83,7 @@ Format:
 | John Ryder | [tokens](https://github.com/tokens) ||
 | Johnicholas Hines | [Johnicholas](https://github.com/Johnicholas) ||
 | Jonas Raedle | [Jonas-R](https://github.com/Jonas-R) ||
+| Joseph Parkton | [jparkton] (https://github.com/jparkton) | Autistic + Blind, learning to code in Python |
 | Kenny Yang | [kyang321](https://github.com/kyang321) ||
 | Leon Cheung | [fsxfreak](https://github.com/fsxfreak) ||
 | Luke Cullina | [lcullina](https://github.com/lcullina) ||
