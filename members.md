@@ -70,6 +70,7 @@ Format:
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
 | Drew M | [yet-another](https://github.com/yet-another) ||
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
+| Gabriel Barth-Maron | [fastturtle](https://github.com/fastturtle) | Experience with Python and eager to learn anything, especially about contributing to FOSS.|
 | Good Luck | [TinKanSinar](https://github.com/TinKanSinar) | Dabbled in Python, C/C++, Java, and Basic. Soon going to college for comp science. Hopes to get experience outside of that. |
 | Greg Xu | [goooooouwa](https://github.com/goooooouwa) ||
 | Hans Saleh | [hsaleh](https://github.com/hsaleh) ||
@@ -103,7 +104,6 @@ Format:
 | Mike Chen | [mhchen](https://github.com/mhchen) ||
 | Mitch L | [SilentFox](https://github.com/SilentFox) |Experience with Java, C++, C.  Learning Python.|
 | Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
-| thearrowflies | [ngbmameman](https://github.com/ngbmameman) | Experience with C++, Java, and learning Python. |
 | Norman King | [generalram] (https://github.com/generalram) ||
 | Pavan Sudheendra | [91pavan](https://github.com/91pavan) ||
 | Pedro S | [p5ilva](https://github.com/p5ilva) | Basic knowledge of Python, interested in learning more|
@@ -122,12 +122,13 @@ Format:
 | Shunichi Otsuka | [vascoosx](https://github.com/vascoosx) ||
 | Steve Baldino | [SteveBaldino](https://github.com/SteveBaldino) ||
 | Taylor Skidmore | [SirSkidmore](https://github.com/SirSkidmore) | I have some experience in Ruby and C++; I am looking to get a better grasp on both languages. |
+| thearrowflies | [ngbmameman](https://github.com/ngbmameman) | Experience with C++, Java, and learning Python. |
 | Tim Downey | [tcdowney](https://github.com/tcdowney) ||
 | Trent Robbins | [robbintt](https://github.com/robbintt) ||
+| Tyler Zika | [tylerzika](https://github.com/tylerzika) ||
 | Vicki Le | [vnle](https://github.com/vnle) ||
 | Will Cusick | [Zare](https://github.com/Zare) ||
 | Will Usher | [Twinklebear](https://github.com/Twinklebear) | I have experience in C++ and some C#, and am learning Python, but am new to contributing to open source projects |
 | Zach Thacker | [SirBraneDamuj](https://github.com/SirBraneDamuj) ||
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
-| Gabriel Barth-Maron | [fastturtle](https://github.com/fastturtle) | Experience with Python and eager to learn anything, especially about contributing to FOSS.|
