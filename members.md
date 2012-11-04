@@ -67,6 +67,7 @@ Format:
 | Clayton Walker | [creakywall](https://github.com/creakywall) ||
 | Collin Watts | [Locke Watts](https://github.com/LockeWatts) || Junior at the University of Georgia Honors program studying CS, been programming for a decade. Specialties in Java and mobile development. |
 | Danielle Cerisier | [dpekkle](https://github.com/dpekkle) | Learning Python |
+| Dario | [asphxia](https://github.com/asphxia) | Learning Python and Ruby. Experienced with PHP and web related technologies. |
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
 | Drew M | [yet-another](https://github.com/yet-another) ||
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
