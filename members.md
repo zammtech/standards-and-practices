@@ -39,6 +39,7 @@ Format:
 |:---------|:-----------|:----------|
 | Aaron Chaput | [achaput](https://github.com/achaput) | I know Java. I hoping to learn how to work on a large project. |
 | Aaron Low | [aaronlow](https://github.com/aaronlow) | Learning mainly Python, some Java, and whatever else I can soak in. |
+| Aaron Wilson | [Jazztoken](https://github.com/jazztoken) | Looking to climb past the basics of programming. Learning Python and web development. |
 | Adrian Wawrzak | [Adiqq](https://github.com/Adiqq) ||
 | Alan Brogan | [jalanb](https://github.com/jalanb) | I have decades of programming experience in C, C++, Java, Python. Would like to learn how to become a FOSS contributor |
 | Alex Mann | [southheat92](https://github.com/southheat92) ||
