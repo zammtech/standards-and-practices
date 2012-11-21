@@ -6,6 +6,7 @@
 |Dictatus |Joe Fredette |[jfredett](https://github.com/jfredett) |[jfredett](http://www.reddit.com/user/jfredett) | Ruby |
 |Chief Mentor |Jacob Gulotta |[jgulotta](https://github.com/jgulotta) || C++ |
 |Mentor |Bernard Martis | [bernardm](https://github.com/bernardm) |[levu-webworks](http://reddit.com/u/levu-webworks) | C, C++, PHP, Python |
+|Mentor |[Chance Zibolski](http://chancez.net) |[ecnahc515](https://github.com/ecnahc515) |[ecnahc515](http://reddit.com/user/ecnahc515/) |Python, JavaScript, PHP, C, C++
 |Mentor |Collin Watts | [LockeWatts](https://github.com/LockeWatts) | [LockeWatts](http://lockewatts.com) | Java, C, Objective-C, C#, PHP |
 |Mentor |Lance Batson |[intothev01d](https://github.com/intothev01d/) |[intothev01d](http://reddit.com/u/intothev01d) | C++, Objective-C |
 |Mentor |_lowell |[lowell](https://github.com/lowell) |[_lowell](http://reddit.com/u/_lowell) | Objective-C, C/CoreFoundation |
@@ -24,7 +25,7 @@
 | C++ | [Jacob Gulotta](https://github.com/jgulotta) | [libastar](https://github.com/LearnProgramming/libastar) | A pluggable C++ library for executing the A* algorithm |
 | Objective-C | [Mathieu Hendey](https://github.com/mathieuhendey) | [RedditWeather](https://github.com/LearnProgramming/RedditWeather) | A weather app for learning iOS development |
 | Python | [Bernard Martis](https://github.com/bernardm) | [lpmc-blackjack-py](https://github.com/LearnProgramming/lpmc-blackjack-py) | Python web app using Flask, Jinja2 |
-| Python | [SlimTim10](https://github.com/SlimTim10) | [LPMCBot](https://github.com/LearnProgramming/LPMCBot) | Python IRC bot |
+| Python | [Chance Zibolski](https://github.com/ecnahc515) | [LPMCBot](https://github.com/LearnProgramming/LPMCBot) | Python IRC bot |
 | Ruby | [Joe Fredette](https://github.com/jfredett) | [LPMC-site](https://github.com/LearnProgramming/lpmc-site) | Rails site for the LPMC |
 | Ruby | [Joe Fredette](https://github.com/jfredett) | [Percival](https://github.com/LearnProgramming/percival) | Ruby IRC bot |
 | Java | [Collin Watts](https://github.com/LockeWatts) | [LPMCCasino](https://github.com/LearnProgramming/LPMCCasino) | Java applet to gamble your heart out
@@ -63,7 +64,6 @@ Format:
 | Brian Dant | [briandant](https://github.com/briandant) | Beginnermediate Python progammer looking for mentors and learning to contribute to FOSS |
 | Brian Jerardi | [BrianJerardi](https://github.com/BrianJerardi) | I have a few years experience with programming as a hobby and freelance, but am looking to become more comfortable working on open source projects and in a team in general. ||
 | Bryce Guinta | [Azrathud](https://github.com/Azrathud) ||
-| Chance Zibolski | [ecnahc515](https://github.com/ecnahc515) | 2nd Year College Student - Exp: Python, C++, C, Javascript, and some frameworks for each. Also very familiar with Linux! |
 | Charlie Andrews | [sir-charles804](https://github.com/sir-charles804) | I am a university student. Have experience in Python, Javascript, and C# |
 | Clayton Walker | [creakywall](https://github.com/creakywall) ||
 | Collin Watts | [Locke Watts](https://github.com/LockeWatts) || Junior at the University of Georgia Honors program studying CS, been programming for a decade. Specialties in Java and mobile development. |
