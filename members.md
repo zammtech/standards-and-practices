@@ -116,6 +116,7 @@ Format:
 | Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
 | Raymond Tang | [Raytray](https://github.com/Raytray) ||
 | Roc Hodges | [myth134](https://github.com/myth134) ||
+| Sadie Dutcher | [SadieD](https://github.com/SadieD) ||
 | Sai Manoj Kumar Yadlapati | [saimanoj](https://github.com/saimanoj) | Can Program in C and Java. Learning and loving Python. Not to forget my love towards open source. |
 | Scott Dubinsky | [sdubinsky](https://github.com/sdubinsky) ||
 | Scott Kaye | [JaxoDI](https://github.com/JaxoDI) ||
