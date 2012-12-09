@@ -126,6 +126,7 @@ Format:
 | Sean Kelley | [smskelley](https://github.com/smskelley) | 2nd Year college student. Experience with: C++, perl, and python. |
 | Shaun C | [scricci](https://github.com/scricci) ||
 | Shunichi Otsuka | [vascoosx](https://github.com/vascoosx) ||
+| Spencer Cutrell | [QSpec](https://github.com/qspec) | Very new.  Interested in Java for now.|
 | Steve Baldino | [SteveBaldino](https://github.com/SteveBaldino) ||
 | Taylor Skidmore | [SirSkidmore](https://github.com/SirSkidmore) | I have some experience in Ruby and C++; I am looking to get a better grasp on both languages. |
 | thearrowflies | [ngbmameman](https://github.com/ngbmameman) | Experience with C++, Java, and learning Python. |
