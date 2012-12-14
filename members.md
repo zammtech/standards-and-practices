@@ -80,6 +80,7 @@ Format:
 | Greg Xu | [goooooouwa](https://github.com/goooooouwa) ||
 | Hans Saleh | [hsaleh](https://github.com/hsaleh) ||
 | Holly Styles | [hollystyles](https://github.com/hollystyles) | 12 years experience LOB apps using Microsoft stack. Interested in everything programming. |
+| Howlden Coalfield | [howlden](https://github.com/howlden) | Law school dropout learning Python with 6.00x (edx.org), also want to learn C (low-level fascinates me, interface with hardware, etc.), and trying my hand at CSS/HTML and PHP on a Wordpress blog. Looking to kickstart a career in CS, need mentors and a plan. | 
 | Ian | [boomzilla](https://github.com/boomzilla) ||
 | Jack Taylor-Crush | [jxtcman](https://github.com/jxtcman) ||
 | James Brewer | [BrewerHimself](https://github.com/BrewerHimself) ||
