@@ -23,7 +23,6 @@
 | **Language** | **Mentor** | **Project** | **Notes** |
 |:-------------|:-----------|:------------|:----------|
 | C++ | [Jacob Gulotta](https://github.com/jgulotta) | [libastar](https://github.com/LearnProgramming/libastar) | A pluggable C++ library for executing the A* algorithm |
-| Objective-C | [Lance Batson](https://github.com/intothev01d/) | [RedditWeather](https://github.com/LearnProgramming/RedditWeather) | A weather app for learning iOS development |
 | Python | [Bernard Martis](https://github.com/bernardm) | [lpmc-blackjack-py](https://github.com/LearnProgramming/lpmc-blackjack-py) | Python web app using Flask, Jinja2 |
 | Python | [Chance Zibolski](https://github.com/ecnahc515) | [LPMCBot](https://github.com/LearnProgramming/LPMCBot) | Python IRC bot |
 | Ruby | [Joe Fredette](https://github.com/jfredett) | [LPMC-site](https://github.com/LearnProgramming/lpmc-site) | Rails site for the LPMC |
