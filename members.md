@@ -4,7 +4,7 @@
 | **Title** | **Name** | **GitHub** | **Reddit** | **Languages** |
 |:----------|:---------|:-----------|:-----------|:--------------|
 |Dictatus |Joe Fredette |[jfredett](https://github.com/jfredett) |[jfredett](http://www.reddit.com/user/jfredett) | Ruby |
-|Chief Mentor |Jacob Gulotta |[jgulotta](https://github.com/jgulotta) || C++ |
+|Chief Mentor |Jacob Gulotta |[jgulotta](https://github.com/jgulotta) |[zzyzzyxx](http://www.reddit.com/user/zzyzzyxx)| C++ |
 |Mentor |Bernard Martis | [bernardm](https://github.com/bernardm) |[levu-webworks](http://reddit.com/u/levu-webworks) | C, C++, PHP, Python |
 |Mentor |[Chance Zibolski](http://chancez.net) |[ecnahc515](https://github.com/ecnahc515) |[ecnahc515](http://reddit.com/user/ecnahc515/) |Python, JavaScript, PHP, C, C++
 |Mentor |Collin Watts | [LockeWatts](https://github.com/LockeWatts) | [LockeWatts](http://lockewatts.com) | Java, C, Objective-C, C#, PHP |
