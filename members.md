@@ -143,3 +143,5 @@ Format:
 | Zach Thacker | [SirBraneDamuj](https://github.com/SirBraneDamuj) ||
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
+| Shin S | [fmazon3](https://github.com/fmazon3) | I know basics for programming. Looking to get myself to learn algorithms |
+
