@@ -128,6 +128,7 @@ Format:
 | Sean Dickinson | [sedickinson](https://github.com/sedickinson) ||
 | Sean Kelley | [smskelley](https://github.com/smskelley) | 2nd Year college student. Experience with: C++, perl, and python. |
 | Shaun C | [scricci](https://github.com/scricci) ||
+| Shin S | [fmazon3](https://github.com/fmazon3) | I know basics for programming. Looking to get myself to learn algorithms |
 | Shunichi Otsuka | [vascoosx](https://github.com/vascoosx) ||
 | Spencer Cutrell | [QSpec](https://github.com/qspec) | Very new.  Interested in Java for now.|
 | Steve Baldino | [SteveBaldino](https://github.com/SteveBaldino) ||
@@ -144,5 +145,4 @@ Format:
 | Zach Thacker | [SirBraneDamuj](https://github.com/SirBraneDamuj) ||
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
-| Shin S | [fmazon3](https://github.com/fmazon3) | I know basics for programming. Looking to get myself to learn algorithms |
 
