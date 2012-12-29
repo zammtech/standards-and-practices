@@ -58,6 +58,7 @@ Format:
 | Ash Courchene | [Acour83](https://github.com/Acour83) ||
 | Avijeet Sachdev | [avijeets](https://github.com/avijeets) ||
 | Benjamin Campbell | [benjic](https://github.com/benjic) ||
+| Benjamin Radcliffe | [benradcliffe](https://github.com/benradcliffe) ||
 | Bernard Martis | [bernardm](https://github.com/bernardm) | I have many years of programming experience in C++ and would like to work on the libAStar project. |
 | Bharath Thiruveedula | [bharathves](https://github.com/bharathves) ||
 | Brandon Luth | [brandonl](https://github.com/brandonl) ||
