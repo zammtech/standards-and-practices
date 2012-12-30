@@ -88,6 +88,7 @@ Format:
 | James Brewer | [BrewerHimself](https://github.com/BrewerHimself) ||
 | Jared Trouth | [jaredtrouth](https://github.com/jaredtrouth) ||
 | Jason Papp | [jspapp](https://github.com/jspapp) ||
+| Jeremy Neptune | [jerenept](https://github.com/jerenept) | Basically proficient in Python and Pascal (But more Python, really). Interested in learning more and contributing to open-source software. |
 | Jim Eiche | [Spawnbroker](https://github.com/Spawnbroker) | Senior computer science student, experience with Java, C#, C++ |
 | John Ryder | [tokens](https://github.com/tokens) ||
 | Johnicholas Hines | [Johnicholas](https://github.com/Johnicholas) ||
