@@ -60,6 +60,7 @@ Format:
 | Benjamin Campbell | [benjic](https://github.com/benjic) ||
 | Benjamin Radcliffe | [benradcliffe](https://github.com/benradcliffe) ||
 | Bernard Martis | [bernardm](https://github.com/bernardm) | I have many years of programming experience in C++ and would like to work on the libAStar project. |
+| Bikram Adhikari | [meadhikari](https://github.com/meadhikari) | University Student, interested in Python and Android.  |
 | Bharath Thiruveedula | [bharathves](https://github.com/bharathves) ||
 | Brandon Luth | [brandonl](https://github.com/brandonl) ||
 | Brennan Plummer | [plumwick](https://github.com/plumwick) ||
