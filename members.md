@@ -76,6 +76,7 @@ Format:
 | Dario | [asphxia](https://github.com/asphxia) | Learning Python and Ruby. Experienced with PHP and web related technologies. |
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
 | Drew M | [yet-another](https://github.com/yet-another) ||
+| Edmond Burnett | [edburnett](https://github.com/edburnett) ||
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
 | Espen R | [Seewhen](https://github.com/seewhen) | C++ background with java and php. Huge AI geek|
 | Gabriel Barth-Maron | [fastturtle](https://github.com/fastturtle) | Experience with Python and eager to learn anything, especially about contributing to FOSS.|
