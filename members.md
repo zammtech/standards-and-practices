@@ -124,7 +124,6 @@ Format:
 | Pedro S | [p5ilva](https://github.com/p5ilva) | Basic knowledge of Python, interested in learning more|
 | Per K | [stressmf](https://github.com/stressmf) ||
 | Peter Baumgarten | [baumgarp](https://github.com/baumgarp) | Computer Science student with experience in Java, Python, MIPS assembly, Lisp, and is experienced with Linux and the command line.  Looking forward to contributing to FOSS projects. |
-| Philippe Huerlimann | [p-h](https://github.com/p-h) ||
 | Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
 | Raymond Tang | [Raytray](https://github.com/Raytray) ||
 | Roc Hodges | [myth134](https://github.com/myth134) ||
