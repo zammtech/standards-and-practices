@@ -119,6 +119,7 @@ Format:
 | Mike Chen | [mhchen](https://github.com/mhchen) ||
 | Mitch L | [SilentFox](https://github.com/SilentFox) |Experience with Java, C++, C.  Learning Python.|
 | Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
+| Nainesh Patel | [nain33](https://github.com/nain33) | 3rd year Comp Sci student wih some experience in Java, C, Python and C#. |
 | Norman King | [generalram] (https://github.com/generalram) ||
 | Pavan Sudheendra | [91pavan](https://github.com/91pavan) ||
 | Pedro S | [p5ilva](https://github.com/p5ilva) | Basic knowledge of Python, interested in learning more|
