@@ -38,7 +38,6 @@ Format:
 | **Name** | **GitHub** | **Notes** |
 |:---------|:-----------|:----------|
 | Aaron Chaput | [achaput](https://github.com/achaput) | I know Java. I hoping to learn how to work on a large project. |
-| Aaron Low | [aaronlow](https://github.com/aaronlow) | Learning mainly Python, some Java, and whatever else I can soak in. |
 | Aaron Wilson | [Jazztoken](https://github.com/jazztoken) | Looking to climb past the basics of programming. Learning Python and web development. |
 | Adam W. Goh | [adamwgoh](https://github.com/adamwgoh) | understands the fundamental of C/C++ and Java, getting used to Python and loves some programming time under my belt. |
 | Adrian Wawrzak | [Adiqq](https://github.com/Adiqq) ||
