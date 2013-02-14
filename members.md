@@ -155,4 +155,4 @@ Format:
 | Zach Thacker | [SirBraneDamuj](https://github.com/SirBraneDamuj) ||
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
-
+| Tyler Anton | [mtanton](https://github.com/mtanton) | I am a second year CS student with Java experience. I'm looking to further my knowledge for real world use. |
