@@ -148,6 +148,7 @@ Format:
 | Tommy Pedersen | [bodhiBit](https://github.com/bodhiBit) | I have about a lifetime of experience in various programming languages, but none in Git.. |
 | Tomoyuki Katsube | [ka2be](https://github.com/ka2be) |EXPERIENCE:learning Scheme and Python a few years as an amateur.GOALS:enjoy teamwork,write more practical code and readable document(+individually English-Japanese translating).And I like Snufkin.|
 | Trent Robbins | [robbintt](https://github.com/robbintt) ||
+| Tyler Anton | [mtanton](https://github.com/mtanton) | I am a second year CS student with Java experience. I'm looking to further my knowledge for real world use. |
 | Tyler Zika | [tylerzika](https://github.com/tylerzika) ||
 | Vicki Le | [vnle](https://github.com/vnle) ||
 | Will Cusick | [Zare](https://github.com/Zare) ||
@@ -155,4 +156,3 @@ Format:
 | Zach Thacker | [SirBraneDamuj](https://github.com/SirBraneDamuj) ||
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
-| Tyler Anton | [mtanton](https://github.com/mtanton) | I am a second year CS student with Java experience. I'm looking to further my knowledge for real world use. |
