@@ -67,6 +67,7 @@ Format:
 | Brian Dant | [briandant](https://github.com/briandant) | Beginnermediate Python progammer looking for mentors and learning to contribute to FOSS |
 | Brian Jerardi | [BrianJerardi](https://github.com/BrianJerardi) | I have a few years experience with programming as a hobby and freelance, but am looking to become more comfortable working on open source projects and in a team in general. ||
 | Bryce Guinta | [Azrathud](https://github.com/Azrathud) ||
+| Chance Rosenthal | [TheChance](https://github.com/TheChance) | I'm an undergrad working on an associates to transfer. C++, interested in Ruby. |
 | Charlie Andrews | [sir-charles804](https://github.com/sir-charles804) | I am a university student. Have experience in Python, Javascript, and C# |
 | Clayton Walker | [creakywall](https://github.com/creakywall) ||
 | Collin Watts | [Locke Watts](https://github.com/LockeWatts) || Junior at the University of Georgia Honors program studying CS, been programming for a decade. Specialties in Java and mobile development. |
