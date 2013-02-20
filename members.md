@@ -129,6 +129,7 @@ Format:
 | Per K | [stressmf](https://github.com/stressmf) ||
 | Peter Baumgarten | [baumgarp](https://github.com/baumgarp) | Computer Science student with experience in Java, Python, MIPS assembly, Lisp, and is experienced with Linux and the command line.  Looking forward to contributing to FOSS projects. |
 | Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
+| Ramasamy G | [ramasamyz](https://github.com/ramasamyz) | Experience of 2 years in java and related technologies. Interested in Ruby, OpenSource and artifical Intelligence. I have time and mind to spare, looking forward to collaborate and programme more. |
 | Raymond Tang | [Raytray](https://github.com/Raytray) ||
 | Roc Hodges | [myth134](https://github.com/myth134) ||
 | Sadie Dutcher | [SadieD](https://github.com/SadieD) ||
