@@ -158,3 +158,4 @@ Format:
 | Zach Thacker | [SirBraneDamuj](https://github.com/SirBraneDamuj) ||
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
+| Tawheed Abdul-Raheem | [tawrahim](https://github.com/tawrahim) || I teach kids how to code in python
