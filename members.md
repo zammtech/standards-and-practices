@@ -144,6 +144,7 @@ Format:
 | Shin S | [fmazon3](https://github.com/fmazon3) | I know basics for programming. Looking to get myself to learn algorithms |
 | Shunichi Otsuka | [vascoosx](https://github.com/vascoosx) ||
 | Spencer Cutrell | [QSpec](https://github.com/qspec) | Very new.  Interested in Java for now.|
+| Stefan Pärson | [kajser](https://github.com/kajser) | I have basic experience in C++ and Java, and some web development in PHP and .NET |
 | Steve Baldino | [SteveBaldino](https://github.com/SteveBaldino) ||
 | Steven Albertson | [stephonos11](https://github.com/stephonos11) | I'm a man. |
 | Taylor Skidmore | [SirSkidmore](https://github.com/SirSkidmore) | I have some experience in Ruby and C++; I am looking to get a better grasp on both languages. |
