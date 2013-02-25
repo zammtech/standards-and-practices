@@ -59,6 +59,7 @@ Format:
 | Ash Courchene | [Acour83](https://github.com/Acour83) ||
 | Avijeet Sachdev | [avijeets](https://github.com/avijeets) ||
 | Benjamin Campbell | [benjic](https://github.com/benjic) ||
+| Benjamin Hipple | [brhCS](https://github.com/brhCS) | Experience with Java, new to contributing to open source projects ||
 | Benjamin Radcliffe | [benradcliffe](https://github.com/benradcliffe) ||
 | Bernard Martis | [bernardm](https://github.com/bernardm) | I have many years of programming experience in C++ and would like to work on the libAStar project. |
 | Bikram Adhikari | [meadhikari](https://github.com/meadhikari) | University Student, interested in Python and Android.  |
@@ -161,4 +162,3 @@ Format:
 | Zach Thacker | [SirBraneDamuj](https://github.com/SirBraneDamuj) ||
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
-| Benjamin Hipple | [brhCS](https://github.com/brhCS) | Experience with Java, new to contributing to open source projects ||
