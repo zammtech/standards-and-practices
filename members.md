@@ -144,6 +144,7 @@ Format:
 | Shaun C | [scricci](https://github.com/scricci) ||
 | Shin S | [fmazon3](https://github.com/fmazon3) | I know basics for programming. Looking to get myself to learn algorithms |
 | Shunichi Otsuka | [vascoosx](https://github.com/vascoosx) ||
+| Sidd Tewari | [siddtewari](https://github.com/siddtewari) | Inter-beginner with Python and Ruby, getting started with Django. Next Targets - JavaScript and Objective-C. |
 | Spencer Cutrell | [QSpec](https://github.com/qspec) | Very new.  Interested in Java for now.|
 | Stefan Pärson | [kajser](https://github.com/kajser) | I have basic experience in C++ and Java, and some web development in PHP and .NET |
 | Steve Baldino | [SteveBaldino](https://github.com/SteveBaldino) ||
