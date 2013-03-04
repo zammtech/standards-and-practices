@@ -97,11 +97,11 @@ Format:
 | Jay Damodaran | [JayNelson](https://github.com/JayNelson) ||
 | Jeremy Neptune | [jerenept](https://github.com/jerenept) | Basically proficient in Python and Pascal (But more Python, really). Interested in learning more and contributing to open-source software. |
 | Jim Eiche | [Spawnbroker](https://github.com/Spawnbroker) | Senior computer science student, experience with Java, C#, C++ |
-| Justin Kim | [jstnk](https://github.com/jstnk) || Currently learning Python.
 | John Ryder | [tokens](https://github.com/tokens) ||
 | Johnicholas Hines | [Johnicholas](https://github.com/Johnicholas) ||
 | Jonas Raedle | [Jonas-R](https://github.com/Jonas-R) ||
 | Joseph Parkton | [jparkton] (https://github.com/jparkton) | Autistic + Blind, learning to code in Python |
+| Justin Kim | [jstnk](https://github.com/jstnk) || Currently learning Python
 | Kenny Yang | [kyang321](https://github.com/kyang321) ||
 | Leon Cheung | [fsxfreak](https://github.com/fsxfreak) ||
 | Luke Cullina | [lcullina](https://github.com/lcullina) ||
