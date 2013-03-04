@@ -97,6 +97,7 @@ Format:
 | Jay Damodaran | [JayNelson](https://github.com/JayNelson) ||
 | Jeremy Neptune | [jerenept](https://github.com/jerenept) | Basically proficient in Python and Pascal (But more Python, really). Interested in learning more and contributing to open-source software. |
 | Jim Eiche | [Spawnbroker](https://github.com/Spawnbroker) | Senior computer science student, experience with Java, C#, C++ |
+| Justin Kim | [jstnk](https://github.com/jstnk) || Currently learning Python.
 | John Ryder | [tokens](https://github.com/tokens) ||
 | Johnicholas Hines | [Johnicholas](https://github.com/Johnicholas) ||
 | Jonas Raedle | [Jonas-R](https://github.com/Jonas-R) ||
