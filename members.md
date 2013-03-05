@@ -101,6 +101,7 @@ Format:
 | Johnicholas Hines | [Johnicholas](https://github.com/Johnicholas) ||
 | Jonas Raedle | [Jonas-R](https://github.com/Jonas-R) ||
 | Joseph Parkton | [jparkton] (https://github.com/jparkton) | Autistic + Blind, learning to code in Python |
+| Justin Kim | [jstnk](https://github.com/jstnk) || Currently learning Python
 | Kenny Yang | [kyang321](https://github.com/kyang321) ||
 | Leon Cheung | [fsxfreak](https://github.com/fsxfreak) ||
 | Luke Cullina | [lcullina](https://github.com/lcullina) ||
