@@ -89,7 +89,7 @@ Format:
 | Howlden Coalfield | [howlden](https://github.com/howlden) | Law school dropout learning Python with 6.00x (edx.org), also want to learn C (low-level fascinates me, interface with hardware, etc.), and trying my hand at CSS/HTML and PHP on a Wordpress blog. Looking to kickstart a career in CS, need mentors and a plan. | 
 | Ian | [boomzilla](https://github.com/boomzilla) ||
 | Jack Taylor-Crush | [jxtcman](https://github.com/jxtcman) ||
-| Jake Choi | [wisupreme](https://github.com/wisupreme) Have knowledge in Java. Eager to learn anything and want to contribute in open source. ||
+| Jake Choi | [wisupreme](https://github.com/wisupreme) | Have knowledge in Java. Eager to learn anything and want to contribute in open source.|
 | James Brewer | [BrewerHimself](https://github.com/BrewerHimself) ||
 | Jared Trouth | [jaredtrouth](https://github.com/jaredtrouth) ||
 | Jason Papp | [jspapp](https://github.com/jspapp) ||
