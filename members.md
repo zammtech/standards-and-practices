@@ -52,7 +52,7 @@ Format:
 | Andreas Varotsis | [crimsoneer](https://github.com/crimsoneer) |Python coder with bugger all experience anywhere.|
 | Andrew Pierce | [qcpw](https://github.com/qcpw) ||
 | Andrew Plassard | [aplassard](https://github.com/aplassard) ||
-| Andrew Salem | [gnomemage7](https://github.com/gnomemage7) ||
+| Andrew Salem | [gnomemage7](https://github.com/gnomemage7)||
 | Andrew Suppa | [antaios256](https://github.com/antaios256) ||
 | Angela Sheu | [angelasheu](https://github.com/angelasheu) ||
 | Anna Mach | [amach](https://github.com/amach) ||
@@ -74,6 +74,7 @@ Format:
 | Bryce Guinta | [Azrathud](https://github.com/Azrathud) ||
 | Chance Rosenthal | [TheChance](https://github.com/TheChance) | I'm an undergrad working on an associates to transfer. C++, interested in Ruby. |
 | Charlie Andrews | [sir-charles804](https://github.com/sir-charles804) | I am a university student. Have experience in Python, Javascript, and C# |
+| Christopher Mason | [kyzen](https://github.com/kyzen) | C background, interested in branching out to higher level languages especially C++ and Python |
 | Clayton Walker | [creakywall](https://github.com/creakywall) ||
 | Collin Watts | [Locke Watts](https://github.com/LockeWatts) || Junior at the University of Georgia Honors program studying CS, been programming for a decade. Specialties in Java and mobile development. |
 | Conor Schaub | [akston](https://github.com/akston) | Currently learning Ruby, interested in Python. Would eventually like to step up to a lower level language such as C. |
