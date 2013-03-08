@@ -26,6 +26,11 @@
 | Python | [Chance Zibolski](https://github.com/ecnahc515) | [LPMCBot](https://github.com/LearnProgramming/LPMCBot) | Python IRC bot |
 | Ruby | [Joe Fredette](https://github.com/jfredett) | [LPMC-site](https://github.com/LearnProgramming/lpmc-site) | Rails site for the LPMC |
 | Ruby | [Joe Fredette](https://github.com/jfredett) | [Percival](https://github.com/LearnProgramming/percival) | Ruby IRC bot |
+| Ruby | [Joe Fredette](https://github.com/jfredett) | [Hatter](https://github.com/LearnProgramming/Hatter) | Ruby CLI Email Client a la Mutt |
+
+As well as many others not listed here. The most current list can generally be 
+found by looking at the repos in the LearnProgramming Organization's list of 
+repositories, and checking on IRC
 
 ## Student Roster
 
