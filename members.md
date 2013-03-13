@@ -98,6 +98,7 @@ Format:
 | Isiah Wheeler | [isiahw1](https://github.com/isiahw1) | Went through Python and Java tracks at Codecademy and looking to expand experience |
 | Jack Taylor-Crush | [jxtcman](https://github.com/jxtcman) ||
 | Jake Choi | [wisupreme](https://github.com/wisupreme) | Have knowledge in Java. Eager to learn anything and want to contribute in open source.|
+| Jake Myers | [jmyers0022](https://github.com/jmyers0022) | Learning Ruby/Rails - Looking forward to contributing to open source projects |
 | James Brewer | [BrewerHimself](https://github.com/BrewerHimself) ||
 | Jared Trouth | [jaredtrouth](https://github.com/jaredtrouth) ||
 | Jason Papp | [jspapp](https://github.com/jspapp) ||
