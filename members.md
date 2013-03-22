@@ -144,6 +144,7 @@ Format:
 | Ramasamy G | [ramasamyz](https://github.com/ramasamyz) | Experience of 2 years in java and related technologies. Interested in doing Ruby, OpenSource and artifical Intelligence activities. I have time and mind to spare, looking forward to collaborate and programme more. |
 | Raymond Tang | [Raytray](https://github.com/Raytray) ||
 | Roc Hodges | [myth134](https://github.com/myth134) ||
+| Russ Bryan | [rchkb](https://github.com/) ||
 | Sadie Dutcher | [SadieD](https://github.com/SadieD) ||
 | Sai Manoj Kumar Yadlapati | [saimanoj](https://github.com/saimanoj) | Can Program in C and Java. Learning and loving Python. Not to forget my love towards open source. |
 | Scott Dubinsky | [sdubinsky](https://github.com/sdubinsky) ||
