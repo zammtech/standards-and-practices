@@ -15,6 +15,7 @@
 |Mentor |Teddy Wong |[Tinyted](https://github.com/Tinyted) |[Tinytw](http://reddit.com/u/Tinytw) | Objective-C |
 |Mentor |Yash Ahuja |[yash3ahuja](https://github.com/yash3ahuja) |||
 |Mentor |Zach Barnes |[Zacharias3690](https://github.com/Zacharias3690) |||
+|Mentor |[Tim Kretschmer](http://simplepathstudios.com) |[XBigTK13X](https://github.com/XBigTK13X) |[XBigTK13X](http://reddit.com/u/XBigTK13X)|Java, C#, Python, C++|
 
 
 
@@ -27,6 +28,7 @@
 | Ruby | [Joe Fredette](https://github.com/jfredett) | [LPMC-site](https://github.com/LearnProgramming/lpmc-site) | Rails site for the LPMC |
 | Ruby | [Joe Fredette](https://github.com/jfredett) | [Percival](https://github.com/LearnProgramming/percival) | Ruby IRC bot |
 | Ruby | [Joe Fredette](https://github.com/jfredett) | [Hatter](https://github.com/LearnProgramming/Hatter) | Ruby CLI Email Client a la Mutt |
+| Java | [Tim Kretschmer](https://github.com/XBigTK13X) | [Aigilas](https://github.com/XBigTK13X/Aigilas) | A fast-paced 2D dungeon crawl with a focus on combo attacks |
 
 As well as many others not listed here. The most current list can generally be 
 found by looking at the repos in the LearnProgramming Organization's list of 
