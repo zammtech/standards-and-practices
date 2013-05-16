@@ -111,6 +111,7 @@ Format:
 | Jim Eiche | [Spawnbroker](https://github.com/Spawnbroker) | Senior computer science student, experience with Java, C#, C++ |
 | John Ryder | [tokens](https://github.com/tokens) ||
 | Johnicholas Hines | [Johnicholas](https://github.com/Johnicholas) ||
+| Jonathan Means | [G01denW01f11](https://github.com/G01denW01f11) | Familiar with basics of Python |
 | Jonas Raedle | [Jonas-R](https://github.com/Jonas-R) ||
 | Joseph Parkton | [jparkton] (https://github.com/jparkton) | Autistic + Blind, learning to code in Python |
 | Justin Kim | [jstnk](https://github.com/jstnk) || Currently learning Python
