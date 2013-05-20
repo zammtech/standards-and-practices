@@ -112,6 +112,7 @@ Format:
 | John Ryder | [tokens](https://github.com/tokens) ||
 | Johnicholas Hines | [Johnicholas](https://github.com/Johnicholas) ||
 | Jonas Raedle | [Jonas-R](https://github.com/Jonas-R) ||
+| Jonathan Mun | [jguy2591](https://github.com/jguy2591) | Basic knowledge in Java, C, html, css, javascript interested in learning more.|
 | Joseph Parkton | [jparkton] (https://github.com/jparkton) | Autistic + Blind, learning to code in Python |
 | Justin Kim | [jstnk](https://github.com/jstnk) || Currently learning Python
 | Kenny Yang | [kyang321](https://github.com/kyang321) ||
