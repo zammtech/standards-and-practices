@@ -84,6 +84,7 @@ Format:
 | Danielle Cerisier | [dpekkle](https://github.com/dpekkle) | Learning Python |
 | Dario | [asphxia](https://github.com/asphxia) | Learning Python and Ruby. Experienced with PHP and web related technologies. |
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
+| Demetri Evans | [iKyriaki](https://github.com/iKyriaki) | Majoring in game development, finishing up my Freshman year and my first year of Python. Currently trying to learn C++ at the same time to prepare myself for the next few years. |
 | Drew M | [yet-another](https://github.com/yet-another) ||
 | Edmond Burnett | [edburnett](https://github.com/edburnett) | Python, JS, C++. Background in Network & Systems Administration. ||
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
