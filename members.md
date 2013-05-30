@@ -133,6 +133,7 @@ Format:
 | Matt Lancaster | [lank81](https://github.com/lank81) ||
 | Matthias Wheelhouse | [Tunacrackers](https://github.com/tunacrackers) ||
 | Michael Lim | [1ronclaw](https://github.com/1ronclaw) ||
+| Michael Movsesov | [michaelmov](https://github.com/michaelmov) | Information Systems student wanting to become a good web developer. I have knowledge of HTML, CSS, JavaScript, PHP and C# but really want to focus on learning as much PHP as I contribute to projects on GitHub|
 | Mike | [M0876](https://github.com/M0876) ||
 | Mike Chen | [mhchen](https://github.com/mhchen) ||
 | Mitch L | [SilentFox](https://github.com/SilentFox) |Experience with Java, C++, C.  Learning Python.|
