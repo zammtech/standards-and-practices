@@ -165,8 +165,8 @@ Format:
 | Spencer Cutrell | [QSpec](https://github.com/qspec) | Very new.  Interested in Java for now.|
 | Stefan Pärson | [kajser](https://github.com/kajser) | I have basic experience in C++ and Java, and some web development in PHP and .NET |
 | Steve Baldino | [SteveBaldino](https://github.com/SteveBaldino) ||
-| Surya Das | [Shpetz](https://github.com/Shpetz) ||
 | Steven Albertson | [stephonos11](https://github.com/stephonos11) | I'm a man. |
+| Surya Das | [Shpetz](https://github.com/Shpetz) ||
 | Taylor Skidmore | [SirSkidmore](https://github.com/SirSkidmore) | I have some experience in Ruby and C++; I am looking to get a better grasp on both languages. |
 | thearrowflies | [ngbmameman](https://github.com/ngbmameman) | Experience with C++, Java, and learning Python. |
 | Tim Downey | [tcdowney](https://github.com/tcdowney) ||
