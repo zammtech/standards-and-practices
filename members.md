@@ -158,6 +158,7 @@ Format:
 | Scott Prager | [SplinterOfChaos](https://github.com/SplinterOfChaos) ||
 | Sean Dickinson | [sedickinson](https://github.com/sedickinson) ||
 | Sean Kelley | [smskelley](https://github.com/smskelley) | 2nd Year college student. Experience with: C++, perl, and python. |
+| Sean O | [seanosaur](https://github.com/seanosaur) | Learning programming basics. Started Python May 2013. |
 | Shaun C | [scricci](https://github.com/scricci) ||
 | Shin S | [fmazon3](https://github.com/fmazon3) | I know basics for programming. Looking to get myself to learn algorithms |
 | Shunichi Otsuka | [vascoosx](https://github.com/vascoosx) ||
