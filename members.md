@@ -118,6 +118,7 @@ Format:
 | Joseph Parkton | [jparkton] (https://github.com/jparkton) | Autistic + Blind, learning to code in Python |
 | Justin Kim | [jstnk](https://github.com/jstnk) || Currently learning Python
 | Kenny Yang | [kyang321](https://github.com/kyang321) ||
+| Keval Shah | [kevalshah](https://github.com/kevalshah) | 3rd Year Software Engineering Student with experience in Java, C, C++, and some Python. |
 | Leon Cheung | [fsxfreak](https://github.com/fsxfreak) ||
 | Luke Cullina | [lcullina](https://github.com/lcullina) ||
 | Luke Herron | [dafe](https://github.com/dafe) ||
