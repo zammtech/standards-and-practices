@@ -81,6 +81,7 @@ Format:
 | Conor Schaub | [akston](https://github.com/akston) | Currently learning Ruby, interested in Python. Would eventually like to step up to a lower level language such as C. |
 | Dag Velovic | [dagvelovic](https://github.com/dagvelovic) | C# |
 | Daniel Berger | [danidin](https://github.com/danidin) ||
+| Daniel Zhang | [thedanzhang](https://github.com/thedanzhang) | Junior in University studying CS. Know Python, Java. Would love to gain experience in open source and app development (web or mobile). Looking to get in to entrepreneurship and tech startups. ||
 | Danielle Cerisier | [dpekkle](https://github.com/dpekkle) | Learning Python |
 | Dario | [asphxia](https://github.com/asphxia) | Learning Python and Ruby. Experienced with PHP and web related technologies. |
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
