@@ -136,7 +136,7 @@ Format:
 | Michael Lim | [1ronclaw](https://github.com/1ronclaw) ||
 | Michael Movsesov | [michaelmov](https://github.com/michaelmov) | Information Systems student wanting to become a good web developer. I have knowledge of HTML, CSS, JavaScript, PHP and C# but really want to focus on learning as much PHP as I contribute to projects on GitHub|
 | Mike | [M0876](https://github.com/M0876) ||
-| Mike North | [Mikesnorth] (http://gothub.com/Mikesnorth) | Basic knowlege of Java and C#, have dipped into Python and C++. |
+| Mike North | [Mikesnorth] (http://github.com/Mikesnorth) | Basic knowlege of Java and C#, have dipped into Python and C++. |
 | Mike Chen | [mhchen](https://github.com/mhchen) ||
 | Mitch L | [SilentFox](https://github.com/SilentFox) |Experience with Java, C++, C.  Learning Python.|
 | Nainesh Patel | [nain33](https://github.com/nain33) | 3rd year Comp Sci student wih some experience in Java, C, Python and C#. |
