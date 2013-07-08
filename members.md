@@ -87,7 +87,7 @@ Format:
 | Demetri Evans | [iKyriaki](https://github.com/iKyriaki) | Majoring in game development, finishing up my Freshman year and my first year of Python. Currently trying to learn C++ at the same time to prepare myself for the next few years. |
 | Drew M | [yet-another](https://github.com/yet-another) ||
 | Edmond Burnett | [edburnett](https://github.com/edburnett) | Python, JS, C++. Background in Network & Systems Administration. ||
-| Eric Soderstrom | [eksoderstrom](https://git.hub.com/eksoderstrom) ||
+| Eric Soderstrom | [eksoderstrom](https://github.com/eksoderstrom) ||
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
 | Espen R | [Seewhen](https://github.com/seewhen) | C++ background with java and php. Huge AI geek|
 | Gabriel Barth-Maron | [fastturtle](https://github.com/fastturtle) | Experience with Python and eager to learn anything, especially about contributing to FOSS.|
