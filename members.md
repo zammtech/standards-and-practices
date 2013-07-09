@@ -48,6 +48,7 @@ Format:
 | Alan Brogan | [jalanb](https://github.com/jalanb) | I have decades of programming experience in C, C++, Java, Python. Would like to learn how to become a FOSS contributor |
 | Alex Mann | [southheat92](https://github.com/southheat92) ||
 | Alex Samide | [absamide](https://github.com/absamide) | Looking to increase knowledge beyond what the CS degree is teaching me. Minimal experience in C/C++/Java/Ruby/Python |
+| Alyssa Lambert | [alamb93](https://github.com/alamb93) | CS student with basic knowledge of Java and C++. Looking forward to increasing my knowledge. |
 | Amrit Ayalur | [aayalur](https://github.com/aayalur) | 17 year old self taught coder. Experience in Java/Ruby/JS/CSS/HTML |
 | Andreas Varotsis | [crimsoneer](https://github.com/crimsoneer) |Python coder with bugger all experience anywhere.|
 | Andrew Pierce | [qcpw](https://github.com/qcpw) ||
