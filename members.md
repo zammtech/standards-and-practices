@@ -145,6 +145,7 @@ Format:
 | Mike | [M0876](https://github.com/M0876) ||
 | Mike North | [Mikesnorth] (http://github.com/Mikesnorth) | Basic knowlege of Java and C#, have dipped into Python and C++. |
 | Mike Chen | [mhchen](https://github.com/mhchen) ||
+| Mike Jiang | [Tinkz](https://github.com/Tinkz) ||
 | Mitch L | [SilentFox](https://github.com/SilentFox) |Experience with Java, C++, C.  Learning Python.|
 | Nainesh Patel | [nain33](https://github.com/nain33) | 3rd year Comp Sci student wih some experience in Java, C, Python and C#. |
 | Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
