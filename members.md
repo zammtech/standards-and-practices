@@ -123,6 +123,7 @@ Format:
 | Jonas Raedle | [Jonas-R](https://github.com/Jonas-R) ||
 | Jonathan Mun | [jguy2591](https://github.com/jguy2591) | Basic knowledge in Java, C, html, css, javascript interested in learning more.|
 | Joseph Parkton | [jparkton] (https://github.com/jparkton) | Autistic + Blind, learning to code in Python |
+| Justin Ellery | [Cellery72](https://github.com/Cellery72>) | Java, learning Python, 1st year CPA |
 | Justin Kim | [jstnk](https://github.com/jstnk) || Currently learning Python
 | Karthika Pai | [karthikapai](https://github.com/karthikapai) | C, C++, Python. learning Ruby, Ruby on Rails, HTML and CSS|
 | Kenny Yang | [kyang321](https://github.com/kyang321) ||
