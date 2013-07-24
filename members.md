@@ -191,6 +191,7 @@ Format:
 | Trent Robbins | [robbintt](https://github.com/robbintt) ||
 | Tyler Anton | [mtanton](https://github.com/mtanton) | I am a second year CS student with Java experience. I'm looking to further my knowledge for real world use. |
 | Tyler Zika | [tylerzika](https://github.com/tylerzika) ||
+| Vaibhav Jain | [vjain20] (https://github.com/vjain20) | I am a software professional working in Java. I want to contribute to open source. ||
 | Vicki Le | [vnle](https://github.com/vnle) ||
 | Will Cusick | [Zare](https://github.com/Zare) ||
 | Will Usher | [Twinklebear](https://github.com/Twinklebear) | I have experience in C++ and some C#, and am learning Python, but am new to contributing to open source projects |
@@ -199,4 +200,3 @@ Format:
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
 | Zuber U | [zuberuber](https://github.com/zuberuber) | I know Python(starting OOP), HTML and some CSS, beginner with PHP, JS. I have a lot of free time and i am looking forward to learn more Python, web-development and web-design. I'd also like to learn more how to write practical code, OOP paradigm and design patterns. ||
-| Vaibhav Jain | [vjain20] (https://github.com/vjain20) | I am a software professional working in Java. I want to contribute to open source. ||
