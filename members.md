@@ -142,6 +142,7 @@ Format:
 | Mark Simpson | [mark-up](https://github.com/mark-up) ||
 | Marsel Zaripov | [TvoroG](https://github.com/TvoroG) ||
 | Martin Colwell | [colwem](https://github.com/colwem) ||
+| Martin Pasko | [smartly23](https://github.com/smartly23) ||
 | Mathieu Hendey | [mathieuhendey](https://github.com/mathieuhendey) ||
 | Matt Johnson | [itstriz](https://github.com/itstriz) ||
 | Matt Jones | [Marzipan](https://github.com/Marzipan) ||
