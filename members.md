@@ -200,6 +200,7 @@ Format:
 | Tyler Anton | [mtanton](https://github.com/mtanton) | I am a second year CS student with Java experience. I'm looking to further my knowledge for real world use. |
 | Tyler Zika | [tylerzika](https://github.com/tylerzika) ||
 | Vaibhav Jain | [vjain20] (https://github.com/vjain20) | I am a software professional working in Java. I want to contribute to open source. ||
+| Valerie Anderson | [valerietheblonde](https://github.com/valerietheblonde) | GIS Masters Student, interested in and afraid of programming. I do environmental work for farmers. |
 | Vicki Le | [vnle](https://github.com/vnle) ||
 | Will Cusick | [Zare](https://github.com/Zare) ||
 | Will Usher | [Twinklebear](https://github.com/Twinklebear) | I have experience in C++ and some C#, and am learning Python, but am new to contributing to open source projects |
