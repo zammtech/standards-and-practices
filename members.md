@@ -141,6 +141,7 @@ Format:
 | Kenny Jeffery | [KLJ3](https://github.com/klj3) | html, css, basic jQuery |
 | Kenny Yang | [kyang321](https://github.com/kyang321) ||
 | Keval Shah | [kevalshah](https://github.com/kevalshah) | 3rd Year Software Engineering Student with experience in Java, C, C++, and some Python. |
+| Lavin Sharma| [fritzrage](https://github.com/fritzrage)|Student|
 | Leon Cheung | [fsxfreak](https://github.com/fsxfreak) ||
 | Luke Cullina | [lcullina](https://github.com/lcullina) ||
 | Luke Herron | [dafe](https://github.com/dafe) ||
