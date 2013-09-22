@@ -16,7 +16,7 @@
 |Mentor |Yash Ahuja |[yash3ahuja](https://github.com/yash3ahuja) |||
 |Mentor |Zach Barnes |[Zacharias3690](https://github.com/Zacharias3690) |||
 |Mentor |[Tim Kretschmer](http://simplepathstudios.com) |[XBigTK13X](https://github.com/XBigTK13X) |[XBigTK13X](http://reddit.com/u/XBigTK13X)|Java, C#, Python, C++|
-
+|Mentor |[Michael Herman](http://mherman.org) |[mjhea0](https://github.com/mjhea0) |[michaelherman](http://www.reddit.com/user/michaelherman)|Python|
 
 
 ## Project Roster
