@@ -85,6 +85,7 @@ Format:
 | Christopher Mason | [kyzen](https://github.com/kyzen) | C background, interested in branching out to higher level languages especially C++ and Python |
 | Chris Wang | [argothian](https://github.com/argothian) | Have been job hunting for a while, know C++, Java, looking for projects to play around with |
 | Clayton Walker | [creakywall](https://github.com/creakywall) ||
+| Coburn Berry  | [nutrigrainapple] (https://github.com/nutrigrainapple) | Intermediate Python, studying Android, goal to be C# programmer. B.S. Mathematics | |
 | Collin Watts | [Locke Watts](https://github.com/LockeWatts) || Junior at the University of Georgia Honors program studying CS, been programming for a decade. Specialties in Java and mobile development. |
 | Conor Schaub | [akston](https://github.com/akston) | Currently learning Ruby, interested in Python. Would eventually like to step up to a lower level language such as C. |
 | Dag Velovic | [dagvelovic](https://github.com/dagvelovic) | C# |
