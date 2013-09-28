@@ -200,6 +200,7 @@ Format:
 | Spencer Cutrell | [QSpec](https://github.com/qspec) | Very new.  Interested in Java for now.|
 | Stefan Balling | [Stefan101](https://github.com/Stefan101) | 3rd year CS student at Glasgow University. Know Java, Python, C and some web dev. Lack confidence, not sure of skill level|
 | Stefan Pärson | [kajser](https://github.com/kajser) | I have basic experience in C++ and Java, and some web development in PHP and .NET |
+| Stephen Quenzer | [Swquenzer](https://github.com/Swquenzer) || I am a computer science student who wants to learn more. |
 | Steve Baldino | [SteveBaldino](https://github.com/SteveBaldino) ||
 | Steven Albertson | [stephonos11](https://github.com/stephonos11) | I'm a man. |
 | Surya Das | [Shpetz](https://github.com/Shpetz) ||
