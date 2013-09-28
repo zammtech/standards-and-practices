@@ -155,6 +155,9 @@ Format:
 | Martin Colwell | [colwem](https://github.com/colwem) ||
 | Martin Pasko | [smartly23](https://github.com/smartly23) ||
 | Mathieu Hendey | [mathieuhendey](https://github.com/mathieuhendey) ||
+| Matt Adelman | [adelman](https://github.com/adelman) | I know, and am fairly
+proficient in a few languages and am looking to get into the open source
+community. |
 | Matt Johnson | [itstriz](https://github.com/itstriz) ||
 | Matt Jones | [Marzipan](https://github.com/Marzipan) ||
 | Matt Kovars | [akovaski](https://github.com/akovaski) ||
