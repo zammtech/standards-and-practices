@@ -205,6 +205,7 @@ Format:
 | Surya Das | [Shpetz](https://github.com/Shpetz) ||
 | Taylor Skidmore | [SirSkidmore](https://github.com/SirSkidmore) | I have some experience in Ruby and C++; I am looking to get a better grasp on both languages. |
 | thearrowflies | [ngbmameman](https://github.com/ngbmameman) | Experience with C++, Java, and learning Python. |
+| Thomas Hobohm | [superman3275](https://github.com/superman3275) | C++, SFML, Python, Pygame, Java, HTML, CSS, JavaScript |
 | Thom Green | [bloodythorn](https:://github.com/bloodythorn) | C++, SFML, Game Development ||
 | Tim Downey | [tcdowney](https://github.com/tcdowney) ||
 | Tommy Pedersen | [bodhiBit](https://github.com/bodhiBit) | I have about a lifetime of experience in various programming languages, but none in Git.. |
