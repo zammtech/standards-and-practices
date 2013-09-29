@@ -173,6 +173,7 @@ Format:
 | Naomi Colvin | [auerfeld] (https://github.com/auerfeld) | Some Python and a little less C. Want to learn more through collaboration. |
 | Nate Aune | [natea] (https://github.com/natea) | Intermediate Python and Django. Want to learn more Javascript such as Angular, Backbone. |
 | Norman King | [generalram] (https://github.com/generalram) ||
+| odajay | [odajay](https://github.com/odajay) | Python |
 | Pavan Sudheendra | [91pavan](https://github.com/91pavan) ||
 | Pedro S | [p5ilva](https://github.com/p5ilva) | Basic knowledge of Python, interested in learning more|
 | Per K | [stressmf](https://github.com/stressmf) ||
