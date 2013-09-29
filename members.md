@@ -43,6 +43,7 @@ Format:
 | **Name** | **GitHub** | **Notes** |
 |:---------|:-----------|:----------|
 | Aaron Chaput | [achaput](https://github.com/achaput) | I know Java. I hoping to learn how to work on a large project. |
+| Aaron Killen | [akillen](https://github.com/akillen) | C#, VB.net enterprise experience. PHP in a past life. Currently learning Ruby and game dev. |
 | Aaron Wilson | [Jazztoken](https://github.com/jazztoken) | Looking to climb past the basics of programming. Learning Python and web development. |
 | Adam W. Goh | [adamwgoh](https://github.com/adamwgoh) | understands the fundamental of C/C++ and Java, getting used to Python and loves some programming time under my belt.| 
 | Abdul-Raheem Tawheed| [tawrahim](https://github.com/tawrahim) | I teach kids how to program in python and am also learning ruby at the same time |
