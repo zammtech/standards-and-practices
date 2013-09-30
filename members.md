@@ -135,6 +135,7 @@ Format:
 | Jonathan Means | [G01denW01f11](https://github.com/G01denW01f11) | Familiar with basics of Python |
 | Jonas Raedle | [Jonas-R](https://github.com/Jonas-R) ||
 | Jonathan Mun | [jguy2591](https://github.com/jguy2591) | Basic knowledge in Java, C, html, css, javascript interested in learning more.|
+| Josef Biza | [JoB70](https://github.com/JoB70) |C# Junior software developer.|
 | Joseph Parkton | [jparkton] (https://github.com/jparkton) | Autistic + Blind, learning to code in Python |
 | Justin Ellery | [Cellery72](https://github.com/Cellery72>) | Java, learning Python, 1st year CPA |
 | Justin Kim | [jstnk](https://github.com/jstnk) || Currently learning Python
@@ -222,4 +223,3 @@ Format:
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
 | Zuber U | [zuberuber](https://github.com/zuberuber) | I know Python(starting OOP), HTML and some CSS, beginner with PHP, JS. I have a lot of free time and i am looking forward to learn more Python, web-development and web-design. I'd also like to learn more how to write practical code, OOP paradigm and design patterns. ||
-| Josef Biza | [JoB70](https://github.com/JoB70) ||
