@@ -146,6 +146,7 @@ Format:
 | Justin Ellery | [Cellery72](https://github.com/Cellery72>) | Java, learning Python, 1st year CPA |
 | Justin Kim | [jstnk](https://github.com/jstnk) || Currently learning Python
 | Karthika Pai | [karthikapai](https://github.com/karthikapai) | C, C++, Python. learning Ruby, Ruby on Rails, HTML and CSS|
+| Kathryn Newbould | [KathrynN](https://github.com/KathrynN) | Learning Java. |
 | Kenny Jeffery | [KLJ3](https://github.com/klj3) | html, css, basic jQuery |
 | Kenny Yang | [kyang321](https://github.com/kyang321) ||
 | Keval Shah | [kevalshah](https://github.com/kevalshah) | 3rd Year Software Engineering Student with experience in Java, C, C++, and some Python. |
