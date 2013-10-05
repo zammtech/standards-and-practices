@@ -137,6 +137,7 @@ Format:
 | Jeremy Neptune | [jerenept](https://github.com/jerenept) | Basically proficient in Python and Pascal (But more Python, really). Interested in learning more and contributing to open-source software. |
 | Jim Aldon D'Souza | [jimdsouza] (https://githum.com/jimdsouza) ||
 | Jim Eiche | [Spawnbroker](https://github.com/Spawnbroker) | Senior computer science student, experience with Java, C#, C++ |
+| Jim Zimmerman | [deadmenflyingsquirrels](https://github.com/deadmenflyingsquirrels) ||
 | John Moon | [jmoon90](https://github.com/jmoon90) | Entrepreneur looking to learn Ruby on Rails with a community.  |
 | John Ryder | [tokens](https://github.com/tokens) ||
 | Johnicholas Hines | [Johnicholas](https://github.com/Johnicholas) ||
