@@ -204,6 +204,7 @@ Format:
 | Sai Manoj Kumar Yadlapati | [saimanoj](https://github.com/saimanoj) | Can Program in C and Java. Learning and loving Python. Not to forget my love towards open source. |
 | Saikiran S | [saikiran1096](https://github.com/saikiran1096) | I have experience with Java and would like to begin contributing to open-source projects!
 | Saket Jain | [tekas1234](https://github.com/tekas1234) || I am a software engineer and can work in C, C++ and PHP |
+| Sayam Masood | [sayammasood](https://github.com/sayammasood) | I've tried lots of programming languages. I enjoy Ruby and Python and would like to put my skills to use in open-source projects. | 
 | Scott Dubinsky | [sdubinsky](https://github.com/sdubinsky) ||
 | Scott Kaye | [JaxoDI](https://github.com/JaxoDI) ||
 | Scott Prager | [SplinterOfChaos](https://github.com/SplinterOfChaos) ||
