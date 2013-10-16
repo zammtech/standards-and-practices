@@ -109,6 +109,7 @@ Format:
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
 | Espen R | [Seewhen](https://github.com/seewhen) | C++ background with java and php. Huge AI geek|
 | Gabriel Barth-Maron | [fastturtle](https://github.com/fastturtle) | Experience with Python and eager to learn anything, especially about contributing to FOSS.|
+| Geoff Cowan | [tomatosource](https://github.com/tomatosource) | Currrently 3rd year Soft Eng student. Basic python, java, C, JS and haskell skills. Looking to get some OSS project experience. |
 | George Rivera | [GeoRivera](https://github.com/GeoRivera) | Some basic knowledge of Java, PHP, SQL, JavaScript, HTML and CSS. Don't quite know why but I just fell in love with JavaScript. |
 | George N | [Tiroth](https://github.com/Tiroth) | Learning Python. Some experience with C, Javascript, HTML/CSS, PHP. |
 | Gigi | [Igdra](https://github.com/Igdra) | I can bumble my way through some HTML5, PHP, C++ and Java; done some JavaScript bug-fixes; and dabbled in Pascal, VB and C. I've helped in the layout and programming aspects of two websites (www.nektaria.hu and www.lacoma.hu), and recently started on Android development. |
