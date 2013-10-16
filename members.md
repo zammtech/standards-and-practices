@@ -94,6 +94,7 @@ Format:
 | Coburn Berry  | [nutrigrainapple] (https://github.com/nutrigrainapple) | Intermediate Python, studying Android, goal to be C# programmer. B.S. Mathematics | |
 | Collin Watts | [Locke Watts](https://github.com/LockeWatts) || Junior at the University of Georgia Honors program studying CS, been programming for a decade. Specialties in Java and mobile development. |
 | Conor Schaub | [akston](https://github.com/akston) | Currently learning Ruby, interested in Python. Would eventually like to step up to a lower level language such as C. |
+| Geoff Cowant | [tomatosource](https://github.com/tomatosource) | Currrently 3rd year Soft Eng student. Basic python, java, C, JS and haskell skills. Looking to get some OSS project experience. |
 | Dag Velovic | [dagvelovic](https://github.com/dagvelovic) | C# |
 | Daniel Berger | [danidin](https://github.com/danidin) ||
 | Daniel Zhang | [thedanzhang](https://github.com/thedanzhang) | Junior in University studying CS. Know Python, Java. Would love to gain experience in open source and app development (web or mobile). Looking to get in to entrepreneurship and tech startups. ||
