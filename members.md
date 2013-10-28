@@ -219,6 +219,7 @@ Format:
 | Shunichi Otsuka | [vascoosx](https://github.com/vascoosx) ||
 | Sidd Tewari | [siddtewari](https://github.com/siddtewari) | Inter-beginner with Python and Ruby, getting started with Django. Next Targets - JavaScript and Objective-C. |
 | Spencer Cutrell | [QSpec](https://github.com/qspec) | Very new.  Interested in Java for now.|
+| Spencer Zhang | [Spencer-Zhang](https://github.com/Spencer-Zhang) | Programming newbie with some knowledge of C++ and Python. Looking to gain some more experience with programming. |
 | Stefan Balling | [Stefan101](https://github.com/Stefan101) | 3rd year CS student at Glasgow University. Know Java, Python, C and some web dev. Lack confidence, not sure of skill level|
 | Stefan Pärson | [kajser](https://github.com/kajser) | I have basic experience in C++ and Java, and some web development in PHP and .NET |
 | Stephen Quenzer | [Swquenzer](https://github.com/Swquenzer) || I am a computer science student who wants to learn more. |
