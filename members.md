@@ -132,6 +132,7 @@ Format:
 | Jalal Hobbs | [jalalhobbs](https://github.com/jalalhobbs) | Basic Python and C#, I'd like to contribute to open source projects to advance. |
 | James Healey | [JamesHealey94](https://github.com/JamesHealey94) | Computer Science university student |
 | James Brewer | [BrewerHimself](https://github.com/BrewerHimself) ||
+| James Vaughan | [vaughanj10](https://github.com/vaughanj10) | 4th Year CS student, experience with C/C++, Java, Ruby on Rails, Python. Looking to contribute to the open source community. |
 | Jared Trouth | [jaredtrouth](https://github.com/jaredtrouth) ||
 | Jason Papp | [jspapp](https://github.com/jspapp) ||
 | Jan Frozsak | [bolcselo](https://github.com/bolcselo) |minor all around experience, deciding to become proficient in C++.|
