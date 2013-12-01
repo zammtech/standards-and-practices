@@ -144,6 +144,7 @@ Format:
 | Jim Aldon D'Souza | [jimdsouza] (https://githum.com/jimdsouza) ||
 | Jim Eiche | [Spawnbroker](https://github.com/Spawnbroker) | Senior computer science student, experience with Java, C#, C++ |
 | Jim Zimmerman | [deadmenflyingsquirrels](https://github.com/deadmenflyingsquirrels) ||
+| Joanna Alcausin | [Madamsmall](https://github.com/madamsmall) | Senior CS student with experience in Java and xCode. Interested in extending knowledge from classroom to applicable workplace skills. |
 | John Moon | [jmoon90](https://github.com/jmoon90) | Entrepreneur looking to learn Ruby on Rails with a community.  |
 | John Ryder | [tokens](https://github.com/tokens) ||
 | Johnicholas Hines | [Johnicholas](https://github.com/Johnicholas) ||
