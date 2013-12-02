@@ -189,6 +189,7 @@ Format:
 | Mike Chen | [mhchen](https://github.com/mhchen) ||
 | Mike Jiang | [Tinkz](https://github.com/Tinkz) ||
 | Mitch L | [SilentFox](https://github.com/SilentFox) |Experience with Java, C++, C.  Learning Python.|
+| Mohammad El-Sabae | [melsabae](https://github.com/melsabae) | I am a CIS student. Getting comfortable with git, very happily typing in vim on crunchbang Linux. Want to move out of current line of work into development. Know a more c than anything, some python. Learned a little C# and VB in a community college. ||
 | Nainesh Patel | [nain33](https://github.com/nain33) | 3rd year Comp Sci student wih some experience in Java, C, Python and C#. |
 | Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
 | Naomi Colvin | [auerfeld] (https://github.com/auerfeld) | Some Python and a little less C. Want to learn more through collaboration. |
@@ -254,4 +255,3 @@ Format:
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
 | Zuber U | [zuberuber](https://github.com/zuberuber) | I know Python(starting OOP), HTML and some CSS, beginner with PHP, JS. I have a lot of free time and i am looking forward to learn more Python, web-development and web-design. I'd also like to learn more how to write practical code, OOP paradigm and design patterns. ||
 | Dharak Kharod | [dharakk](https://github.com/dharakk) | I am a computer Science Student. Know C/C++ and JAVA. Looking forward to learning python. A real Beginner. Hoping to progress. |
-
