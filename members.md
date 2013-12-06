@@ -102,6 +102,7 @@ Format:
 | Dario | [asphxia](https://github.com/asphxia) | Learning Python and Ruby. Experienced with PHP and web related technologies. |
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
 | Demetri Evans | [iKyriaki](https://github.com/iKyriaki) | Majoring in game development, finishing up my Freshman year and my first year of Python. Currently trying to learn C++ at the same time to prepare myself for the next few years. |
+| Dharak Kharod | [dharakk](https://github.com/dharakk) | I am a computer Science Student. Know C/C++ and JAVA. Looking forward to learning python. A real Beginner. Hoping to progress. |
 | Drew M | [yet-another](https://github.com/yet-another) ||
 | Edmond Burnett | [edburnett](https://github.com/edburnett) | Python, JS, C++. Background in Network & Systems Administration. ||
 | Eli Mullis | [ewm9759](https://github.com/ewm9759) | Comp sci undergrad looking to contribute to OSS. Extensive coursework in Java, plus some self-taught experience with Python, C, and Haskell.
@@ -256,4 +257,3 @@ Format:
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
 | Zuber U | [zuberuber](https://github.com/zuberuber) | I know Python(starting OOP), HTML and some CSS, beginner with PHP, JS. I have a lot of free time and i am looking forward to learn more Python, web-development and web-design. I'd also like to learn more how to write practical code, OOP paradigm and design patterns. ||
-| Dharak Kharod | [dharakk](https://github.com/dharakk) | I am a computer Science Student. Know C/C++ and JAVA. Looking forward to learning python. A real Beginner. Hoping to progress. |
