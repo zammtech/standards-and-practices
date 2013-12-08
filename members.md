@@ -68,12 +68,13 @@ Format:
 | Armand Halbert | [ahalbert](https://github.com/ahalbert) ||
 | Arne Fostvedt | [arn-e](https://github.com/arn-e) ||
 | Ash Courchene | [Acour83](https://github.com/Acour83) ||
-| Austin Walker | [awalker4](https://github.com/awalker4) | Sophomore CS student with 2 semesters worth of Java. I also know some Python, and I'm starting to play around in C.
+| Austin Walker | [awalker4](https://github.com/awalker4) | Sophomore CS student with 2 semesters worth of Java. I also know some Python, and I'm starting to play around in C.||
 | Avijeet Sachdev | [avijeets](https://github.com/avijeets) ||
 | Avneesh Chadha | [avneesh91](https://github.com/avneesh91) |Self taught programmer. Exprience with Java, and a little python. Looking for mentors and guidance.Want to experience Open source development.Eventually want to go into kernel programming. |
 | Benjamin Campbell | [benjic](https://github.com/benjic) ||
 | Benjamin Hipple | [brhCS](https://github.com/brhCS) | Experience with Java, new to contributing to open source projects ||
 | Benjamin Radcliffe | [benradcliffe](https://github.com/benradcliffe) ||
+| Benjamin Rooks | [bjrooks](https://github.com/bjrooks) | Student of computational chemistry. Curious about open source. Most experience with Perl and Bash. Some Python.||^M
 | Bernard Martis | [bernardm](https://github.com/bernardm) | I have many years of programming experience in C++ and would like to work on the libAStar project. |
 | Bikram Adhikari | [meadhikari](https://github.com/meadhikari) | University Student, interested in Python and Android.  |
 | Bipol Alam | [bipolalam](https://github.com/bipolalam) |Student pursuing Comp Sci B.S. C++ and Android |
