@@ -147,6 +147,7 @@ Format:
 | Jim Eiche | [Spawnbroker](https://github.com/Spawnbroker) | Senior computer science student, experience with Java, C#, C++ |
 | Jim Zimmerman | [deadmenflyingsquirrels](https://github.com/deadmenflyingsquirrels) ||
 | Joanna Alcausin | [Madamsmall](https://github.com/madamsmall) | Senior CS student with experience in Java and xCode. Interested in extending knowledge from classroom to applicable workplace skills. |
+| Joel Roggeman | [jroggeman](https://github.com/jroggeman) | I'm a computer science major who knows a good amount of Java, a fair amount of C, and tiny bits of various others.  I want to get better at programming, learn C#, get familiar with programming tools (git, makefiles, debugger, etc), and gain experience while contributing to FOSS. ||
 | John Moon | [jmoon90](https://github.com/jmoon90) | Entrepreneur looking to learn Ruby on Rails with a community.  |
 | John Ryder | [tokens](https://github.com/tokens) ||
 | Johnicholas Hines | [Johnicholas](https://github.com/Johnicholas) ||
