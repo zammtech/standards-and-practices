@@ -163,6 +163,7 @@ Format:
 | Karthika Pai | [karthikapai](https://github.com/karthikapai) | C, C++, Python. learning Ruby, Ruby on Rails, HTML and CSS|
 | Kathryn Newbould | [KathrynN](https://github.com/KathrynN) | Learning Java. |
 | Kathy Xiong | [xiaokexi](https://github.com/xiaokexi) | A beginner in Python and programming in general. Hoping to become a professional developer eventually. Interested in honing my skills and getting to know the open-source community.|
+| Kelvin Lee | [neuromanxr](https://github.com/neuromanxr) | I worked in finance and accounting. I left to go back to college for computer science. Knowledge in C++, Python, just started learning Obj-C and iOS development. | 
 | Kenny Jeffery | [KLJ3](https://github.com/klj3) | html, css, basic jQuery |
 | Kenny Yang | [kyang321](https://github.com/kyang321) ||
 | Keval Shah | [kevalshah](https://github.com/kevalshah) | 3rd Year Software Engineering Student with experience in Java, C, C++, and some Python. |
