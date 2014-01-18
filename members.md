@@ -165,6 +165,7 @@ Format:
 | Kenny Jeffery | [KLJ3](https://github.com/klj3) | html, css, basic jQuery |
 | Kenny Yang | [kyang321](https://github.com/kyang321) ||
 | Keval Shah | [kevalshah](https://github.com/kevalshah) | 3rd Year Software Engineering Student with experience in Java, C, C++, and some Python. |
+| Kevin Bronson | [KevinBronson](https://github.com/KevinBronson) | I have some experience with VB, VB.NET, HTML, CSS and recently took a class on Java. I hope to get good enough to find a job programming. |
 | Kyle Stratis| [achileas](https://github.com/achileas) | Self-taught looking to build skills in all languages. Currently learning Java, Ruby, Python, Javascript. Eventually want to expand into the C family and assembly. I'm a glutton for punishment. |
 | Lavin Sharma| [fritzrage](https://github.com/fritzrage)|Student|
 | Leon Cheung | [fsxfreak](https://github.com/fsxfreak) ||
