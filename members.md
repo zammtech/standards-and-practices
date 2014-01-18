@@ -114,6 +114,7 @@ Format:
 | Eric Soderstrom | [eksoderstrom](https://github.com/eksoderstrom) ||
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
 | Espen R | [Seewhen](https://github.com/seewhen) | C++ background with java and php. Huge AI geek|
+| Frank Harvey | [superking84](https://github.com/superking84) | Majority of my experinece is in Python, however I have some basic web dev experience (JavaScript, HTML, CSS).  My real goal is not necessarily to master any given language, but rather to become a well-rounded programmer. |
 | Gabriel Barth-Maron | [fastturtle](https://github.com/fastturtle) | Experience with Python and eager to learn anything, especially about contributing to FOSS.|
 | Geoff Cowan | [tomatosource](https://github.com/tomatosource) | Currrently 3rd year Soft Eng student. Basic python, java, C, JS and haskell skills. Looking to get some OSS project experience. |
 | George Rivera | [GeoRivera](https://github.com/GeoRivera) | Some basic knowledge of Java, PHP, SQL, JavaScript, HTML and CSS. Don't quite know why but I just fell in love with JavaScript. |
