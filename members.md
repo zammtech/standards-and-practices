@@ -206,6 +206,7 @@ Format:
 | Nainesh Patel | [nain33](https://github.com/nain33) | 3rd year Comp Sci student wih some experience in Java, C, Python and C#. |
 | Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
 | Naomi Colvin | [auerfeld] (https://github.com/auerfeld) | Some Python and a little less C. Want to learn more through collaboration. |
+| Narek Babajanyan | [narekb](https://github.com/narekb) | Basic Python, interested in joint projects and practice. |
 | Nate Aune | [natea] (https://github.com/natea) | Intermediate Python and Django. Want to learn more Javascript such as Angular, Backbone. |
 | Nikolai A | [choppinrox] (https://github.com/choppinrox) | Computer Science student, I have experience in C++/C# python/django and have developed in Visual Studios and Unity3d |
 | Norman King | [generalram] (https://github.com/generalram) ||
