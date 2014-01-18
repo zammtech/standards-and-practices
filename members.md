@@ -222,6 +222,7 @@ Format:
 | Raymond Tang | [Raytray](https://github.com/Raytray) ||
 | Robert Povsic | [esoyitaque](https://github.com/esoyitaque)| Can program Java and Android would like to learn C++ and Python |
 | Roc Hodges | [myth134](https://github.com/myth134) ||
+| Rod Lai | [Rodlikespants](https://github.com/Rodlikespants) | I know Java, Perl, C++, and a little bit of many others (Ruby, Python, JavaScript, Node.js).  I've been working in the industry for a few years but would like more experience developing independent projects and contributing to OSS |
 | Russ Bryan | [rchkb](https://github.com/) ||
 | Sadie Dutcher | [SadieD](https://github.com/SadieD) ||
 | Sai Manoj Kumar Yadlapati | [saimanoj](https://github.com/saimanoj) | Can Program in C and Java. Learning and loving Python. Not to forget my love towards open source. |
