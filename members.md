@@ -151,6 +151,7 @@ Format:
 | Jim Eiche | [Spawnbroker](https://github.com/Spawnbroker) | Senior computer science student, experience with Java, C#, C++ |
 | Jim Zimmerman | [deadmenflyingsquirrels](https://github.com/deadmenflyingsquirrels) ||
 | Joanna Alcausin | [Madamsmall](https://github.com/madamsmall) | Senior CS student with experience in Java and xCode. Interested in extending knowledge from classroom to applicable workplace skills. |
+| Joe Sawyer | [zkay](https://github.com/zkay) | I am learning Ruby and Rails, trying to become a professional web developer in 2014. ||
 | Joel Roggeman | [jroggeman](https://github.com/jroggeman) | I'm a computer science major who knows a good amount of Java, a fair amount of C, and tiny bits of various others.  I want to get better at programming, learn C#, get familiar with programming tools (git, makefiles, debugger, etc), and gain experience while contributing to FOSS. ||
 | John Moon | [jmoon90](https://github.com/jmoon90) | Entrepreneur looking to learn Ruby on Rails with a community.  |
 | John Ryder | [tokens](https://github.com/tokens) ||
@@ -274,4 +275,3 @@ Format:
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
 | Zuber U | [zuberuber](https://github.com/zuberuber) | I know Python(starting OOP), HTML and some CSS, beginner with PHP, JS. I have a lot of free time and i am looking forward to learn more Python, web-development and web-design. I'd also like to learn more how to write practical code, OOP paradigm and design patterns. ||
 | حبيب الامين | [phySi0](https://github.com/phySi0) | I know a fair bit, I want to learn a lot more. My priorities are Objective-C, Python (2 and 3) and C. ||
-| Joe Sawyer | [zkay](https://github.com/zkay) | I am learning Ruby and Rails, trying to become a professional web developer in 2014. ||
