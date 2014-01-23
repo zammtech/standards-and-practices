@@ -249,6 +249,7 @@ Format:
 | Stephen Quenzer | [Swquenzer](https://github.com/Swquenzer) || I am a computer science student who wants to learn more. |
 | Steve Baldino | [SteveBaldino](https://github.com/SteveBaldino) ||
 | Steven Albertson | [stephonos11](https://github.com/stephonos11) | I'm a man. |
+| Sumit Sahrawat | [sumitsahrawat](https://github.com/sumitsahrawat) | C, C++, Ruby |
 | Surya Das | [Shpetz](https://github.com/Shpetz) ||
 | Taylor Skidmore | [SirSkidmore](https://github.com/SirSkidmore) | I have some experience in Ruby and C++; I am looking to get a better grasp on both languages. |
 | thearrowflies | [ngbmameman](https://github.com/ngbmameman) | Experience with C++, Java, and learning Python. |
