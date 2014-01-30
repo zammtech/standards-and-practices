@@ -233,6 +233,7 @@ Format:
 | Saikiran S | [saikiran1096](https://github.com/saikiran1096) | I have experience with Java and would like to begin contributing to open-source projects!
 | Saket Jain | [tekas1234](https://github.com/tekas1234) || I am a software engineer and can work in C, C++ and PHP |
 | Sal van Wezel | [salvanwezel](https://github.com/salvanwezel) | I know the basics of C, Objective C and Ruby. I want to learn how to contribute. |
+| Sarthak Agrawal | [sarthakagrawal](https://github.com/sarthakagrawal) | I'm learning Python, and I'm excited to get involved with open source. |
 | Sayam Masood | [sayammasood](https://github.com/sayammasood) | I've tried lots of programming languages. I enjoy Ruby and Python and would like to put my skills to use in open-source projects. | 
 | Sam Hotop | [shotop](https://github.com/shotop)| Working as a test automation engineering consultant currently.  Looking to get better at dev in general |
 | Scott Dubinsky | [sdubinsky](https://github.com/sdubinsky) ||
