@@ -1,4 +1,4 @@
-﻿# Roster -- Learn Programming Mentoring Community
+# Roster -- Learn Programming Mentoring Community
 ## Mentor Roster
 
 | **Title** | **Name** | **GitHub** | **Reddit** | **Languages** |
@@ -92,6 +92,7 @@ Format:
 | Carden Bagwell | [CardenB] (https://github.com/CardenB) | Undergrad Computer Engineer with knowledge of Java, C++, C#, and Python. Looking for experience with open source and extracurricular projects. |
 | Chance Rosenthal | [TheChance](https://github.com/TheChance) | I'm an undergrad working on an associates to transfer. C++, interested in Ruby. |
 | Charlie Andrews | [sir-charles804](https://github.com/sir-charles804) | I am a university student. Have experience in Python, Javascript, and C# |
+| Chathuranga de Silva | [chatz05](https://github.com/chatz05) | Graduate student. Objective-C , Java background. Interested in learn git and github |
 | Christopher Mason | [kyzen](https://github.com/kyzen) | C background, interested in branching out to higher level languages especially C++ and Python |
 | Chris Wang | [argothian](https://github.com/argothian) | Have been job hunting for a while, know C++, Java, looking for projects to play around with |
 | Chris Webb | [Chris112](https://github.com/Chris112) ||
