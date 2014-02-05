@@ -276,6 +276,7 @@ Format:
 | Will Cusick | [Zare](https://github.com/Zare) ||
 | Will Usher | [Twinklebear](https://github.com/Twinklebear) | I have experience in C++ and some C#, and am learning Python, but am new to contributing to open source projects |
 | Xuku | [xuku] (https://github.com/xuku) | I'm new to programming; I know the basics of C++ and Python and am hoping to learn through working on projects. |
+| Zach Flanders | [zachflanders](https://github.com/zachflanders) | HTML and CSS proficient, worked my way thorugh codeacademy javascript and O'Reilly's learning PHP, MySQL, Javascript, & CSS book. Looking to learn more about program development process and be involved in real projects. |
 | Zach Thacker | [SirBraneDamuj](https://github.com/SirBraneDamuj) ||
 | Zach Kirkland | [zkirkland](https://github.com/zkirkland) | I know the basics and want to learn (a lot) more.
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
