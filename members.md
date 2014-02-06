@@ -224,6 +224,7 @@ Format:
 | Piyush Khemka | [piy9] (https://github.com/piy9) | Computer Science student. Want to get started with Open Source. 
 | Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
 | Ramasamy G | [ramasamyz](https://github.com/ramasamyz) | Experience of 2 years in java and related technologies. Interested in doing Ruby, OpenSource and artifical Intelligence activities. I have time and mind to spare, looking forward to collaborate and programme more. |
+| Randy Le | [WickedWallaby](https://github.com/WickedWallaby) |  |
 | Raymond Tang | [Raytray](https://github.com/Raytray) ||
 | Robert Povsic | [esoyitaque](https://github.com/esoyitaque)| Can program Java and Android would like to learn C++ and Python |
 | Roc Hodges | [myth134](https://github.com/myth134) ||
