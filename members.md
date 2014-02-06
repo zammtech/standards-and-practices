@@ -219,6 +219,7 @@ Format:
 | Pedro S | [p5ilva](https://github.com/p5ilva) | Basic knowledge of Python, interested in learning more|
 | Per K | [stressmf](https://github.com/stressmf) ||
 | Peter Baumgarten | [baumgarp](https://github.com/baumgarp) | Computer Science student with experience in Java, Python, MIPS assembly, Lisp, and is experienced with Linux and the command line.  Looking forward to contributing to FOSS projects. |
+| Peter Molnar | [petermolnar-hu](https://github.com/petermolnar-hu) | I want to reuse and reshape my previous developer experience from years ago (dBase, Clipper, FoxPRO and Delphi). I am interested in Java, Objective-C, PHP, and C projects. Goal to be a software engineer. |
 | Philip Smith | [rstack](https://github.com/rstack) | Some Perl and Ruby development experience.  Looking to better my skills and aid the OpenSource community while building my portfolio simultaneously. |
 | Piyush Khemka | [piy9] (https://github.com/piy9) | Computer Science student. Want to get started with Open Source. 
 | Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
@@ -281,4 +282,3 @@ Format:
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
 | Zuber U | [zuberuber](https://github.com/zuberuber) | I know Python(starting OOP), HTML and some CSS, beginner with PHP, JS. I have a lot of free time and i am looking forward to learn more Python, web-development and web-design. I'd also like to learn more how to write practical code, OOP paradigm and design patterns. ||
 | حبيب الامين | [phySi0](https://github.com/phySi0) | I know a fair bit, I want to learn a lot more. My priorities are Objective-C, Python (2 and 3) and C. ||
-| Peter Molnar | [petermolnar-hu](https://github.com/petermolnar-hu) | I want to reuse and reshape my previous developer experience from years ago (dBase, Clipper, FoxPRO and Delphi). I am interested in Java, Objective-C, PHP, and C projects. Goal to be a software engineer. |
