@@ -220,6 +220,7 @@ Format:
 | Pedro S | [p5ilva](https://github.com/p5ilva) | Basic knowledge of Python, interested in learning more|
 | Per K | [stressmf](https://github.com/stressmf) ||
 | Peter Baumgarten | [baumgarp](https://github.com/baumgarp) | Computer Science student with experience in Java, Python, MIPS assembly, Lisp, and is experienced with Linux and the command line.  Looking forward to contributing to FOSS projects. |
+| Peter Molnar | [petermolnar-hu](https://github.com/petermolnar-hu) | I want to reuse and reshape my previous developer experience from years ago (dBase, Clipper, FoxPRO and Delphi). I am interested in Java, Objective-C, PHP, and C projects. Goal to be a software engineer. |
 | Philip Smith | [rstack](https://github.com/rstack) | Some Perl and Ruby development experience.  Looking to better my skills and aid the OpenSource community while building my portfolio simultaneously. |
 | Piyush Khemka | [piy9] (https://github.com/piy9) | Computer Science student. Want to get started with Open Source. 
 | Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
