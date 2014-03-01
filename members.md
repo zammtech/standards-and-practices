@@ -103,6 +103,7 @@ Format:
 | Conor Schaub | [akston](https://github.com/akston) | Currently learning Ruby, interested in Python. Would eventually like to step up to a lower level language such as C. |
 | Dag Velovic | [dagvelovic](https://github.com/dagvelovic) | C# |
 | Daniel Berger | [danidin](https://github.com/danidin) ||
+| Daniel Ma | [zammtech](https://github.com/zammtech) | Learning Java using Standford CS 106a courses.  When complete will try the other Stanford courses. |
 | Daniel Zhang | [thedanzhang](https://github.com/thedanzhang) | Junior in University studying CS. Know Python, Java. Would love to gain experience in open source and app development (web or mobile). Looking to get in to entrepreneurship and tech startups. ||
 | Danielle Cerisier | [dpekkle](https://github.com/dpekkle) | Learning Python |
 | Dario | [asphxia](https://github.com/asphxia) | Learning Python and Ruby. Experienced with PHP and web related technologies. |
